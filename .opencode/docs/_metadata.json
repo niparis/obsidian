@@ -1,0 +1,19 @@
+{
+  "documents": {
+    "modelcontextprotocol_io_docs_concepts_architecture.md": {
+      "url": "https://modelcontextprotocol.io/docs/concepts/architecture",
+      "title": "Architecture overview - Model Context Protocol",
+      "fetchedAt": "2026-01-20T14:11:01.764Z",
+      "expiresAt": "2026-01-21T14:11:01.764Z",
+      "size": 160
+    },
+    "www_npmjs_com_package_modelcontextprotocol_sdk.md": {
+      "url": "https://www.npmjs.com/package/@modelcontextprotocol/sdk",
+      "title": "@modelcontextprotocol/sdk - npm",
+      "fetchedAt": "2026-01-20T14:11:02.077Z",
+      "expiresAt": "2026-01-21T14:11:02.077Z",
+      "size": 14729
+    }
+  },
+  "lastUpdated": "2026-01-20T14:11:02.078Z"
+}
