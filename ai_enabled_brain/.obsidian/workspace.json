@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technology/Data-Oriented Programming (MOC).md",
+                "file": "technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data-Oriented Programming (MOC)"
+              "title": "Data-Oriented Programming - Yehonathan Sharvit (Summary)"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "3ec4f7293ffe2b9e",
   "lastOpenFiles": [
-    "technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
     "technology/Data-Oriented Programming (MOC).md",
+    "Functional Programming.md",
+    "technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
     "Welcome.md",
     "technology"
   ]
