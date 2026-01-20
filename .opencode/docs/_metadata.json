@@ -13,7 +13,35 @@
       "fetchedAt": "2026-01-20T14:11:02.077Z",
       "expiresAt": "2026-01-21T14:11:02.077Z",
       "size": 14729
+    },
+    "www_npmjs_com_package_pdf-parse.md": {
+      "url": "https://www.npmjs.com/package/pdf-parse",
+      "title": "pdf-parse - npm",
+      "fetchedAt": "2026-01-20T14:11:02.501Z",
+      "expiresAt": "2026-01-21T14:11:02.501Z",
+      "size": 15135
+    },
+    "github_com_modelcontextprotocol_servers.md": {
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "title": "GitHub - modelcontextprotocol/servers: Model Context Protocol Servers",
+      "fetchedAt": "2026-01-20T14:11:22.480Z",
+      "expiresAt": "2026-01-21T14:11:22.480Z",
+      "size": 15197
+    },
+    "github_com_modelcontextprotocol_typescript-sdk_blob_main_docs.md": {
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk/blob/main/docs/server.md",
+      "title": "typescript-sdk/docs/server.md at main · modelcontextprotocol/typescript-sdk · GitHub",
+      "fetchedAt": "2026-01-20T14:11:38.960Z",
+      "expiresAt": "2026-01-21T14:11:38.960Z",
+      "size": 2091
+    },
+    "raw_githubusercontent_com_modelcontextprotocol_typescript-sdk_main_docs_serv.md": {
+      "url": "https://raw.githubusercontent.com/modelcontextprotocol/typescript-sdk/main/docs/server.md",
+      "title": "Plain Text",
+      "fetchedAt": "2026-01-20T14:11:42.251Z",
+      "expiresAt": "2026-01-21T14:11:42.251Z",
+      "size": 8656
     }
   },
-  "lastUpdated": "2026-01-20T14:11:02.078Z"
+  "lastUpdated": "2026-01-20T14:11:42.251Z"
 }
