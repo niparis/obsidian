@@ -3,10 +3,7 @@
   "mcp": {
       "pdfreader": {
         "type": "local",
-        "command": "npx",
-        "args": [
-          "@sylphx/pdf-reader-mcp"
-        ]
+        "command": ["npx", "-y", "@sylphx/pdf-reader-mcp"]
       }
   }
 }
