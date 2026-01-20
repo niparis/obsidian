@@ -1,0 +1,12 @@
+{
+  "mcp": {
+    "servers": {
+      "pdf-reader": {
+        "command": "npx",
+        "args": [
+          "@sylphx/pdf-reader-mcp"
+        ]
+      }
+    }
+  }
+}
