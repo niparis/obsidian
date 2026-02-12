@@ -1,3 +1,12 @@
+---
+id: opencode-context
+type: resource
+status: evergreen
+tags: [resource, process]
+created: 2026-02-12
+updated: 2026-02-12
+---
+
 # Project Context
 
 ## Environment
