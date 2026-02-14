@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a8b17ef9f27aa232",
+        "id": "15be4e958496caf1",
         "type": "tabs",
         "children": [
           {
-            "id": "3ec4f7293ffe2b9e",
+            "id": "8d2336f88cba7137",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -198,8 +198,28 @@
       "obsidian-opencode:OpenCode": false
     }
   },
-  "active": "3ec4f7293ffe2b9e",
+  "active": "8d2336f88cba7137",
   "lastOpenFiles": [
+    "Link.md",
+    "05_resources/opencode-todo.md",
+    "05_resources/opencode-context.md",
+    "05_resources/library/Python Cookbook, Third Edition - David Beazley, Brian K. Jones.pdf",
+    "05_resources/library/Mastering PostgreSQL in Application Develo - Dimitri Fontaine.pdf",
+    "05_resources/library/Implementing The Clean Architecture (475).pdf",
+    "05_resources/library/Data-Oriented Programming - Yehonathan Sharvit.pdf",
+    "05_resources/library",
+    "05_resources",
+    "03_concepts/technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
+    "03_concepts/technology/Data-Oriented Programming (MOC).md",
+    "03_concepts/ui-brief-template.md",
+    "03_concepts/technology",
+    "03_concepts/stylistic-brief-framework.md",
+    "03_concepts/obsidian-agent-grade-vault.md",
+    "03_concepts/innsmouth-cult-story.md",
+    "03_concepts/Functional Programming.md",
+    "03_concepts",
+    "01_projects/dream-escape-project.md",
+    "01_projects",
     "technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
     "technology/Data-Oriented Programming (MOC).md",
     "Functional Programming.md",
