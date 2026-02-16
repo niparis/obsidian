@@ -26,13 +26,6 @@ Stabilize **Achilles NP2+ turns** without facecard dependency.
 - Current bottleneck is **charge economy**, not just damage.
 - Better charge values reduce turns where normal cards are required between NPs.
 
-## Alternative team comp to test (saved)
-### Helena W1 clear -> Anastasia + Castoria core
-- **W1:** Helena NP clears/softens wave 1.
-- **W2/W3 DPS:** Anastasia (Arts AoE) with Castoria support.
-- **Shell:** Helena + Anastasia + Castoria + flex backline (Plugsuit swap support if needed).
-- **Why this works:** Helena is card-type agnostic (battery + rainbow buff), while Anastasia fully benefits from Castoria for stable Arts damage/NP flow on later waves.
-
 ## Verification source
 - Atlas Academy NA data:
   - Achilles (id 402900)
