@@ -54,6 +54,7 @@ created: 2026-02-15
   - starting NP CE
   - good charge timing
   - saving burst buffs for W3
+- **Field test update:** with low/medium skill levels, using **Kaleidoscope on Achilles** (high starting NP) solved consistency issues and enabled smooth NP chain as intended.
 
 ## Extra checks (for tighter tuning)
 - Achilles Append 2 level
