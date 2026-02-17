@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "d85c27dd8924ae73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -198,7 +212,7 @@
       "obsidian-opencode:OpenCode": false
     }
   },
-  "active": "8d2336f88cba7137",
+  "active": "d85c27dd8924ae73",
   "lastOpenFiles": [
     "05_resources/gaming/FGO Achilles NP2 Team Orders.md",
     "05_resources/gaming",
