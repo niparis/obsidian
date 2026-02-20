@@ -195,11 +195,51 @@ If these are fuzzy, concept risk is high.
 
 ---
 
-## 11) Bottom line
+## 11) Theme vs mechanics — breakout attribution model
 
-The best StS descendants preserve the core addiction loop (build, adapt, scale, die, learn, rerun) while changing the **shape of decisions**.
+### Working definitions
+- **Theme (aesthetic/narrative wrapper):** visual identity, setting, sound, flavor text, and story context wrapped around the deckbuilding-roguelike core.
+- **Success:** review/sales/cultural reach + retention ("one more run" compulsion).
+
+### Tested assumptions
+1. **"Theme is cosmetic; mechanics do 80–90%."**
+   - Rejected in breakout contexts. In a saturated genre, theme often determines first-click conversion, memorability, and social spread.
+
+2. **"Great mechanics alone guarantee breakout."**
+   - Rejected by market outcomes. Many mechanically competent clones remain niche.
+
+3. **"Theme only matters for launch hype."**
+   - Incomplete. Theme also sustains discussion, recall, and identity over time when it is integrated into play.
+
+### Practical heuristic
+For post-StS breakout probability, a useful heuristic is:
+- **Mechanics = longevity/retention backbone**
+- **Theme = adoption/differentiation/shareability accelerator**
+- Approximate contribution to breakout (not a hard law): **theme ~40–60%**, mechanics carrying most long-term depth.
+
+Treat this as a strategic planning band, not a strict measurable constant unless backed by formal cohort analysis.
+
+### Mechanical embodiment principle
+Theme works best when embodied in rules (not just art):
+- **Balatro:** poker iconography + tactile casino feedback mapped into scoring/combo logic.
+- **Inscryption:** horror/meta narrative embodied in sacrifice, card manipulation, and act-structure shifts.
+- **Monster Train:** "defend the last fire" fantasy embodied in multi-lane pressure and clan synergy.
+
+If theme does not alter player decision feeling, it behaves like decoration.
+
+### Strategic implication for builders
+Do not choose between theme and mechanics. Build them as a coupled system:
+- Theme should make mechanics legible and emotionally resonant.
+- Mechanics should make theme feel true every turn.
+
+---
+
+## 12) Bottom line
+
+The best StS descendants preserve the core addiction loop (build, adapt, scale, die, learn, rerun) while changing the **shape of decisions** and giving those decisions a compelling thematic frame.
 
 That is the durable pattern:
 - not content volume alone
+- not mechanics alone
 - not theme alone
-- but new agency architecture with excellent clarity and balance.
+- but **agency architecture + thematic resonance + execution clarity**.
