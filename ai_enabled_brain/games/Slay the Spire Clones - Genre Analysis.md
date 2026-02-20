@@ -319,5 +319,15 @@ That is the durable pattern:
 ### Metaphorical hooks (captured)
 - **Echo Resonance:** choices persist as whispers; past actions can rescue or haunt future turns.
 - **Crucible Fusion:** creation through sacrifice; two good things destroyed to birth a transcendent third.
+- **Veil Layers:** reality is layered; a fair fight in one plane can be doom or salvation in another.
+- **Oracle Sight:** foresight is inert unless the player spends agency to rewrite what fate reveals.
+- **Curse Bloom:** damage and "bad draws" can be cultivated into transformative power.
+
+### Synthesis statement (design philosophy)
+When a mechanic carries symbolic weight, turns stop feeling like pure card arithmetic and start feeling like authored fate. This is a core reason the genre remains durable: each new rule can retell the same ancient loop—random circumstances, constrained choices, intentional adaptation, emergent meaning.
+
+Practical product implication:
+- If playtests produce immediate "one more run" pull, the mechanic-theme coupling is likely working.
+- If players describe only math efficiency, theme embodiment is probably too weak.
 
 (Additional metaphorical hooks can be attached per mechanic during concept selection phase.)
