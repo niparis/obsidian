@@ -331,3 +331,61 @@ Practical product implication:
 - If players describe only math efficiency, theme embodiment is probably too weak.
 
 (Additional metaphorical hooks can be attached per mechanic during concept selection phase.)
+
+---
+
+## 14) Horror-themed mechanic set (new, 5 concepts)
+
+### Core framing for this batch
+- Preserve StS base loop (energy turns, draft/synergy/upgrade, procedural routing, permadeath runs, emergent combos).
+- Keep each mechanic readable in 15–40 minute runs.
+- Make horror themes **mechanically central**, not cosmetic.
+
+### Themes intentionally covered
+1. Astral corruption
+2. Eldritch forces
+3. Blood sacrifice
+4. Rot
+5. Unseen forces
+
+### New mechanics (Set C)
+
+1. **Crimson Altar** *(Blood sacrifice)*
+   - Central altar slot in combat.
+   - Sacrifice card(s) from hand/draw to altar: immediate combat power spike (essence-driven).
+   - Sacrificed cards are removed post-combat; unresolved altar cost is paid in HP/resources.
+   - Design effect: permanent-removal tension becomes an in-combat overclock decision.
+
+2. **Rotting Lattice** *(Rot)*
+   - Discard pile represented as a visible infection lattice.
+   - Rot spreads by adjacency each turn.
+   - Rot grants discounts but weakens base output; full saturation triggers collapse into mutated cursed-power cards.
+   - Design effect: discard/order management becomes contagious system control.
+
+3. **Eldritch Rift** *(Eldritch forces)*
+   - Card play builds Rift level.
+   - At threshold, player may trigger one high-impact intervention per combat.
+   - Intervention adds delayed deck debt (madness curses) after collapse.
+   - Design effect: short-term reality-warp payoff vs long-term cognitive/toxic load.
+
+4. **Astral Decay** *(Astral corruption)*
+   - Nodes/fights add decay points during run.
+   - Decay marks cards with optional corrupted mode (higher power + self-cost/debt).
+   - At high decay, world layer shifts to harder corrupted route/events until purged.
+   - Design effect: run-level corruption economy that reconfigures both deck and map pressure.
+
+5. **Unseen Thread** *(Unseen forces)*
+   - Hidden manipulator alters draw/hand/enemy pattern each turn.
+   - Player can spend a scarce action to reveal/lock near-future manipulations (“snip” window).
+   - Snipping grants persistent paranoia upside/downside effects.
+   - Design effect: controlled hidden-information dread with occasional precision agency spikes.
+
+### Notes on novelty constraints
+This set is intentionally orthogonal to previously logged mechanics (no lane geometry dependence, no joker-like scoring identity, no echo timeline tokens, no fixed-board charm model, no direct ship-slide foresight model).
+
+### Metaphorical hooks (Set C)
+- **Crimson Altar:** immediate power requires irreversible self-pruning.
+- **Rotting Lattice:** neglected residue spreads, then blooms into transformed identity.
+- **Eldritch Rift:** every invocation of external power incurs return pressure.
+- **Astral Decay:** corruption doubles as adaptation and danger.
+- **Unseen Thread:** agency emerges by sensing and cutting hidden control.
