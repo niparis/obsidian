@@ -243,3 +243,81 @@ That is the durable pattern:
 - not mechanics alone
 - not theme alone
 - but **agency architecture + thematic resonance + execution clarity**.
+
+---
+
+## 13) New mechanic ideation backlog (stored)
+
+### Core constraints for this ideation batch
+- Keep the StS-style core loop: run-based roguelike deckbuilding, energy turns, drafting/upgrades/relic synergies, procedural routing, permadeath + meta progression.
+- Keep runs readable and compact (~15–40 min).
+- Prioritize **new decision layers** over cosmetic variation.
+- Avoid direct overlap with known signatures (e.g., Monster Train lanes, Balatro wildcard scoring identity, Inscryption sacrifice-horror identity, Wildfrost fixed board charm model, Cobalt Core ship-slide foresight model).
+
+### Assumptions captured
+1. Freshness does not require maximal complexity; one elegant axis can be enough.
+2. Theme is not optional in breakout contexts; mechanic-theme coupling matters.
+3. Controlled unfairness/risk-reward is a feature in roguelike retention loops.
+
+### Set A — previously generated concepts
+
+1. **Dual Timeline Combat**
+   - Every turn, cards can be committed to **Now** or **Next Turn** tracks.
+   - Next Turn actions are amplified but disruptable.
+   - Creates tempo-vs-setup strategy as a primary axis.
+
+2. **Deck Temperature (Heat / Focus)**
+   - Each play shifts deck state toward Heat (aggression) or Focus (control).
+   - Card behavior mutates by temperature band.
+   - Overheat / overfocus penalties force dynamic equilibrium.
+
+3. **Relic Socket Grid**
+   - Relics placed on a small adjacency grid (e.g., 3x3).
+   - Neighbor relationships define combo behavior.
+   - Relic strategy becomes spatial architecture, not passive stacking.
+
+4. **Encounter/Negotiation Secondary Deck**
+   - Parallel non-combat deck for shops/events/pre-fight leverage.
+   - Trades off against combat deck consistency.
+   - Makes macro-routing and economy manipulation systemic.
+
+5. **Enemy Evolution Memory**
+   - Enemy archetypes adapt to overused player win-lines during a run.
+   - Encourages pivots, deception, and diversified damage plans.
+   - Creates anti-solved-run pressure.
+
+### Set B — Nicolas concepts
+
+1. **Echo Resonance**
+   - Each played card leaves a fading echo token on a short timeline bar (3–5 slots).
+   - Next turn, one echo can be triggered for ~50% effect at zero energy.
+   - Echoes decay; some enemies can steal/invalidate echoes.
+   - Design effect: turns recent history into a second resource economy.
+
+2. **Crucible Fusion**
+   - Once per combat (or at special nodes), pay cost (e.g., 2 energy + discard 2 cards) to fuse two cards.
+   - Resulting hybrid inherits chosen keyword/effects from both parents.
+   - Hybrid is permanent for the run and elevated rarity.
+   - Design effect: converts deck curation into explicit in-run card invention.
+
+3. **Veil Layers (Material / Spirit / Void)**
+   - Combat exists across three planes; player/enemies occupy one at a time.
+   - Shifting veil costs energy and changes targeting/effect rules.
+   - Relics can enable cross-veil bleed interactions.
+   - Design effect: adds spatial/phase strategy without abandoning card loop readability.
+
+4. **Oracle Sight**
+   - Start of combat reveals next enemy intents and next player draws (limited horizon).
+   - Once per combat, pay a cost to rewrite one predicted draw from discard.
+   - Design effect: perfect information becomes scarce strategic currency.
+
+5. **Curse Bloom**
+   - Curses can be deliberately cultivated via play patterns or resource investment.
+   - Survive X turns with a curse in deck → transform into high-power positive card.
+   - Design effect: reverses aversion loop; negatives become long-game assets.
+
+### Metaphorical hooks (captured)
+- **Echo Resonance:** choices persist as whispers; past actions can rescue or haunt future turns.
+- **Crucible Fusion:** creation through sacrifice; two good things destroyed to birth a transcendent third.
+
+(Additional metaphorical hooks can be attached per mechanic during concept selection phase.)
