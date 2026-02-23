@@ -143,6 +143,54 @@ If we don’t separate these levels, enterprises will over-invest where risk is 
 
 ---
 
+## Major consultancies scan (McKinsey, Accenture, BCG, KPMG + Deloitte/PwC)
+
+### McKinsey
+- https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-agentic-organization-contours-of-the-next-paradigm-for-the-ai-era
+  - Proposes an "agentic organization" model with pillars including business model, operating model, governance, workforce/culture, and technology/data.
+- https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage
+  - Emphasizes autonomy levels, decision boundaries, monitoring, and audit mechanisms.
+
+### Accenture
+- https://www.accenture.com/us-en/insights/consulting/rethinking-it-operating-models
+  - Frames enterprise-level governance/funding for AI-agent deployment across functions.
+- https://www.accenture.com/content/dam/accenture/final/accenture-com/document-4/Accenture-The-New-Rules-of-Platform-Strategy-in-the-Age-of-Agentic-AI.pdf
+  - Platform-strategy lens in the agentic era (useful for architecture + operating model framing).
+
+### BCG
+- https://www.bcg.com/publications/2025/agents-accelerate-next-wave-of-ai-value-creation
+  - Highlights cross-functional governance, outcome/risk monitoring, and "freedom within a frame."
+- https://www.bcg.com/publications/2025/machines-that-manage-themselves
+  - Leadership/management implications for increasingly autonomous systems.
+
+### KPMG
+- https://kpmg.com/us/en/articles/2025/ai-governance-for-the-agentic-ai-era.html
+  - Strong governance-centric framing and agent categorization concepts.
+- https://kpmg.com/us/en/articles/2025/deploying-ai-agents.html
+  - Introduces TACO framework (Taskers, Automators, Collaborators, Orchestrators), very relevant to your maturity-level idea.
+
+### PwC
+- https://www.pwc.com/us/en/tech-effect/ai-analytics/responsible-ai-agents.html
+  - Responsible AI framing for autonomous enterprise workflows.
+- https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-observability.html
+  - Focus on AI observability as governance + performance layer.
+
+### Deloitte
+- https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/agentic-ai-orchestration-governance.html
+  - Orchestration + governance patterns as complexity grows.
+- https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/agentic-ai-strategy.html
+  - Notes traditional IT governance is insufficient for autonomous decision systems.
+
+---
+
+## What this consultancy scan confirms for your model
+1. **Maturity/categorization is mainstream**: major firms already segment agent types/capabilities.
+2. **Governance scales with autonomy**: consistent theme across firms (boundaries, oversight, audits, controls).
+3. **Observability alone is insufficient at higher levels**: recurring shift toward outcome/risk monitoring and accountability.
+4. **Your L1/L2/L3 framing is differentiated**: consultancies discuss categories broadly; your model is stronger on delegated decision rights + governance-rightsizing.
+
+---
+
 ## Follow-up research tasks (next pass)
 1. Find formal taxonomies from standards bodies/research (NIST, OECD, EU AI Act mapping where relevant).
 2. Add 2-3 enterprise case studies per level (L1/L2/L3).
