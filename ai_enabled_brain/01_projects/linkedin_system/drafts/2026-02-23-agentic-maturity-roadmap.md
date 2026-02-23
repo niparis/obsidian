@@ -91,9 +91,61 @@ If we don’t separate these levels, enterprises will over-invest where risk is 
 
 ---
 
-## Follow-up research tasks
-1. Find literature/frameworks on AI autonomy levels and agent capability taxonomies.
-2. Find governance literature on delayed-outcome decision systems.
-3. Find operational patterns for human-in-the-loop at medium/high-risk decision points.
-4. Collect case studies where technical observability was insufficient without outcome tracking.
-5. Validate Level 3 governance patterns (control layers for iterative/self-improving agents).
+## Literature pass (Reddit / LinkedIn / X + supporting references)
+
+### Reddit signals (community/operator perspective)
+1. https://www.reddit.com/r/AI_Agents/comments/1psxz64/predictions_for_agentic_ai_in_2026/
+   - Useful quote (preview): governance is hard without runtime control and explainability of why actions happened.
+2. https://www.reddit.com/r/Observability/comments/1pq49fd/observing_ai_agents_logging_actions_vs/
+   - Useful quote (preview): logs show *what* happened, not necessarily *why* an agent chose a path.
+3. https://www.reddit.com/r/SaaS/comments/1pisfea/enterprise_ai_infrastructure_whats_actually_hard/
+   - Useful quote (preview): enterprises end up needing deterministic audit trails, not just probabilistic model narratives.
+
+### LinkedIn signals (operator/executive framing)
+1. https://www.linkedin.com/posts/andrewyng_announcing-my-new-course-agentic-ai-building-activity-7381380126317404160-wW75
+   - Useful quote (preview): building agentic systems requires disciplined evaluation and feedback.
+2. https://www.linkedin.com/posts/allansendagi_practices-for-governing-agentic-ai-systems-activity-7155227295207559168-zRMN
+   - Notes: references baseline responsibilities and safety practices in agentic AI lifecycle.
+3. https://www.linkedin.com/posts/vikram-murali-40878112_agentic-ai-in-observability-building-resilient-activity-7396266501722312704-bELA
+   - Notes: observability-centric framing for resilient/accountable systems.
+
+(LinkedIn preview limits apply; many posts are partially gated.)
+
+### X signals (faster trend pulse)
+1. https://x.com/AndrewYNg/status/1981056313661559155
+   - Useful quote (preview): governance pillars include lifecycle, risk, security, and observability.
+2. https://x.com/Gartner_inc/status/1964336055731077243
+   - Useful quote (preview): agentic adoption requires clear business value and robust governance.
+3. https://x.com/csisfutures/status/2016541810235986248/photo/1
+   - Useful quote (preview): definitional confusion around agentic AI weakens governance and oversight.
+
+### Supporting long-form references (stronger conceptual anchor)
+1. CSIS: https://www.csis.org/analysis/lost-definition-how-confusion-over-agentic-ai-risks-governance
+   - Key contribution: argues for capability-based taxonomy to match authority, accountability, and evaluation.
+2. MIT Sloan Management Review: https://sloanreview.mit.edu/projects/the-emerging-agentic-enterprise-how-leaders-must-navigate-a-new-age-of-ai/
+   - Key contribution: adoption is outpacing strategy; decision rights and accountability models lag.
+
+---
+
+## What this literature adds to the roadmap
+1. **Validates your core framing**: ambiguity in the term "agentic AI" creates governance mismatch.
+2. **Supports Level 1 vs Level 2 distinction**: many sources separate logging/traceability from actual decision-quality governance.
+3. **Supports delayed correctness point (Level 2)**: outcome observability is repeatedly described as harder than technical telemetry.
+4. **Strengthens Level 3 argument**: as autonomy increases, governance must shift from tooling telemetry to control architecture + authority boundaries.
+
+---
+
+## Publication-ready angle options from this literature
+1. "Agentic maturity is really a decision-rights ladder"
+2. "Most teams have agent traces, not agent governance"
+3. "Outcome observability is the missing layer between demo and production"
+4. "The governance failure starts with fuzzy definitions"
+
+---
+
+## Follow-up research tasks (next pass)
+1. Find formal taxonomies from standards bodies/research (NIST, OECD, EU AI Act mapping where relevant).
+2. Add 2-3 enterprise case studies per level (L1/L2/L3).
+3. Build a one-page rubric: delegated decision rights vs required controls.
+4. Gather concrete patterns for delayed-outcome evaluation windows (T+1 day, T+7 days, T+30 days).
+5. Design Level 3 sub-levels (e.g., 3A bounded iteration, 3B self-modifying workflow, 3C multi-agent adaptive systems).
