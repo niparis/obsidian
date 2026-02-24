@@ -44,3 +44,8 @@ Use this exact tagline across all generated resume variants unless explicitly ov
 
 "CTO-level AI platform builder specialising in execution-grade transformation in complex environments."
 
+## SCB Experience Framing
+Use this positioning when asked why leaving / fit criteria:
+
+"The structural ownership model between central AI, platform, and domain created execution drag. I’m looking for an environment where mandate and delivery are aligned."
+
