@@ -2,6 +2,9 @@
 
 Saved for later.
 
+## Profile Links
+- LinkedIn: https://www.linkedin.com/in/nicolasparis/
+
 ## 1) Spot the Flaws
 **Prompt:** Act as a recruiter for [your industry/role]. Review my resume below and highlight weak areas, overused buzzwords, and missing metrics. Be brutally honest.
 
