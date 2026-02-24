@@ -5,6 +5,10 @@ Saved for later.
 ## Profile Links
 - LinkedIn: https://www.linkedin.com/in/nicolasparis/
 
+## Stored Resume
+- Latest PDF: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02.pdf`
+- Review note: `01_projects/resume_job_search/resume_review_2026-02-24.md`
+
 ## 1) Spot the Flaws
 **Prompt:** Act as a recruiter for [your industry/role]. Review my resume below and highlight weak areas, overused buzzwords, and missing metrics. Be brutally honest.
 
