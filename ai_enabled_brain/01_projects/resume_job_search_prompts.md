@@ -38,3 +38,9 @@ Saved for later.
 - Rewritten master resume: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md`
 - CTO version: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_CTO.md`
 - Head of AI / GenAI version: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI.md`
+
+## Preferred Tagline
+Use this exact tagline across all generated resume variants unless explicitly overridden:
+
+"CTO-level AI platform builder specialising in execution-grade transformation in complex environments."
+

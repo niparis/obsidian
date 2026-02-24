@@ -1,5 +1,5 @@
 # Nicolas Paris
-**Chief Technology Officer | Enterprise Platforms, Product Engineering, Generative AI**
+**CTO-level AI platform builder specialising in execution-grade transformation in complex environments.**
 Singapore | +65-94291277 | ni.paris@gmail.com | https://www.linkedin.com/in/nicolasparis/
 
 ## Executive Summary

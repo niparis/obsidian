@@ -126,3 +126,12 @@ Nicolas Paris
 - `/home/nicolas/obsidian/ai_enabled_brain/01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md`
 - `/home/nicolas/obsidian/ai_enabled_brain/01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_CTO.md`
 - `/home/nicolas/obsidian/ai_enabled_brain/01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI.md`
+
+---
+
+## Decision Log — Preferred Tagline (2026-02-24 16:22 UTC)
+- **Decision:** Use this exact tagline across all resume output variants: "CTO-level AI platform builder specialising in execution-grade transformation in complex environments."
+- **Rationale:**
+  - Aligns all resume variants to a single, recruiter-facing positioning statement.
+  - Signals senior scope (CTO-level), AI platform depth, and execution focus in complex enterprise contexts.
+  - Keeps ATS compatibility while preserving factual consistency with documented delivery outcomes.
