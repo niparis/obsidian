@@ -32,3 +32,9 @@ Saved for later.
 
 ## 8) Standout Cover Letter
 **Prompt:** Write a compelling cover letter based on this resume and job description. Keep it personal, enthusiastic, and under 200 words.
+
+## Generated Outputs
+- Prompt run log: `01_projects/resume_job_search/resume_prompt_runs_2026-02-24.md`
+- Rewritten master resume: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md`
+- CTO version: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_CTO.md`
+- Head of AI / GenAI version: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI.md`
