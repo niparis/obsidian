@@ -21,12 +21,14 @@
             "id": "d85c27dd8924ae73",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Nicolas_Paris_Resume_2026-02_rewritten"
             }
           }
         ],
@@ -214,6 +216,22 @@
   },
   "active": "d85c27dd8924ae73",
   "lastOpenFiles": [
+    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI.md",
+    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_CTO.md",
+    "games/Slay the Spire Clones - Genre Analysis.md",
+    "games",
+    "05_resources/gaming/FGO skills upgrade priorities.md",
+    "05_resources/gaming/FGO Team Comp Ideas.md",
+    "01_projects/resume_job_search_prompts.md",
+    "01_projects/resume_job_search/resume_review_2026-02-24.md",
+    "01_projects/resume_job_search/resume_prompt_runs_2026-02-24.md",
+    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md",
+    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02.pdf",
+    "01_projects/resume_job_search",
+    "01_projects/linkedin_system/drafts/2026-02-23-agentic-maturity-roadmap.md",
+    "01_projects/linkedin_system/drafts",
+    "01_projects/linkedin_system/content_calendar.md",
+    "01_projects/linkedin_system",
     "05_resources/gaming/FGO Achilles NP2 Team Orders.md",
     "05_resources/gaming",
     "03_concepts/technology/Scaler Mapping Regime Risk to Exposure.md",
@@ -224,22 +242,15 @@
     "05_resources/library/Mastering PostgreSQL in Application Develo - Dimitri Fontaine.pdf",
     "05_resources/library/Implementing The Clean Architecture (475).pdf",
     "05_resources/library/Data-Oriented Programming - Yehonathan Sharvit.pdf",
-    "05_resources/library",
-    "05_resources",
     "03_concepts/technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
     "03_concepts/technology/Data-Oriented Programming (MOC).md",
     "03_concepts/ui-brief-template.md",
-    "03_concepts/technology",
     "03_concepts/stylistic-brief-framework.md",
     "03_concepts/obsidian-agent-grade-vault.md",
     "03_concepts/innsmouth-cult-story.md",
     "03_concepts/Functional Programming.md",
-    "03_concepts",
     "01_projects/dream-escape-project.md",
-    "01_projects",
     "technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
-    "technology/Data-Oriented Programming (MOC).md",
-    "Functional Programming.md",
-    "Welcome.md"
+    "technology/Data-Oriented Programming (MOC).md"
   ]
 }
