@@ -1,3 +1,10 @@
+---
+tags:
+  - job-search
+  - resume
+  - prompts
+---
+
 # Resume / Job Search Prompts
 
 Saved for later.
@@ -49,3 +56,7 @@ Use this positioning when asked why leaving / fit criteria:
 
 "The structural ownership model between central AI, platform, and domain created execution drag. I’m looking for an environment where mandate and delivery are aligned."
 
+## Related Notes
+- [[job_search_hub]]
+- [[resume_job_search/resume_prompt_runs_2026-02-24]]
+- [[resume_job_search/resume_review_2026-02-24]]

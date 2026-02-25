@@ -1,3 +1,11 @@
+---
+tags:
+  - job-search
+  - resume
+  - prompt-runs
+  - execution-log
+---
+
 # Resume Prompt Runs — Nicolas Paris (2026-02-24)
 
 ## Run Metadata
@@ -135,3 +143,10 @@ Nicolas Paris
   - Aligns all resume variants to a single, recruiter-facing positioning statement.
   - Signals senior scope (CTO-level), AI platform depth, and execution focus in complex enterprise contexts.
   - Keeps ATS compatibility while preserving factual consistency with documented delivery outcomes.
+
+## Related Notes
+- [[job_search_hub]]
+- [[resume_job_search_prompts]]
+- [[resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten]]
+- [[resume_job_search/Nicolas_Paris_Resume_2026-02_CTO]]
+- [[resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI]]

@@ -1,3 +1,10 @@
+---
+tags:
+  - job-search
+  - resume
+  - review
+---
+
 # Resume Review — Nicolas Paris (2026-02-24)
 
 ## Stored Resume
@@ -50,3 +57,8 @@
 CTO and AI platform leader with 19 years of experience scaling enterprise products across finance and healthcare.
 Delivered 6 production GenAI solutions for the Asian Development Bank (US$2M total contract value), including RAG and workflow automation with up to 75% workload reduction.
 Built and led cross-functional engineering organizations that grew ARR beyond US$1M while maintaining up to 99.99% uptime in regulated environments.
+
+## Related Notes
+- [[job_search_hub]]
+- [[resume_job_search_prompts]]
+- [[resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten]]

@@ -1,3 +1,10 @@
+---
+tags:
+  - job-search
+  - strategy
+  - positioning
+---
+
 # Job Search Strategy — Strategic Reality Assessment (2026-02-24)
 
 ## I. Strategic Reality Assessment
@@ -176,3 +183,9 @@ Without sounding like:
 - A frustrated banker
 - A generic AI strategist
 - A pure startup operator
+
+## Related Notes
+- [[job_search_hub]]
+- [[resume_job_search/Nicolas_Paris_Resume_2026-02_CTO]]
+- [[resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI]]
+- [[resume_job_search_prompts]]

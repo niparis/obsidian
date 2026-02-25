@@ -1,3 +1,10 @@
+---
+tags:
+  - job-search
+  - resume
+  - master-cv
+---
+
 # Nicolas Paris
 **CTO-level AI platform builder specialising in execution-grade transformation in complex environments.**
 Singapore | +65-94291277 | ni.paris@gmail.com | https://www.linkedin.com/in/nicolasparis/
@@ -50,3 +57,9 @@ Progressed through analytics, business development, and product-facing roles tha
 - Master’s in Finance, IE (Spain), 2010
 - Master’s in Management, ESSCA (France), 2003
 - AWS Certifications: Solutions Architect (Associate), Big Data Specialty
+
+## Related Notes
+- [[job_search_hub]]
+- [[resume_job_search/resume_prompt_runs_2026-02-24]]
+- [[resume_job_search/resume_review_2026-02-24]]
+- [[resume_job_search/job_search_strategy_2026-02-24]]

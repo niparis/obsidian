@@ -1,3 +1,12 @@
+---
+tags:
+  - job-search
+  - resume
+  - cv-track
+  - head-of-ai
+  - genai
+---
+
 # Nicolas Paris
 **CTO-level AI platform builder specialising in execution-grade transformation in complex environments.**
 Singapore | +65-94291277 | ni.paris@gmail.com | https://www.linkedin.com/in/nicolasparis/
@@ -43,3 +52,8 @@ Generative AI | LLM Applications | Retrieval-Augmented Generation (RAG) | AI Gov
 - Master’s in Finance, IE (Spain), 2010
 - Master’s in Management, ESSCA (France), 2003
 - AWS Certifications: Solutions Architect (Associate), Big Data Specialty
+
+## Related Notes
+- [[job_search_hub]]
+- [[resume_job_search/job_search_strategy_2026-02-24]]
+- [[resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten]]
