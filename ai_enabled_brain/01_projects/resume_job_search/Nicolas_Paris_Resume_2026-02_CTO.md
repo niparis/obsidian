@@ -1,9 +1,8 @@
 ---
 tags:
   - job-search
-  - resume
-  - cv-track
-  - cto
+doc_type: resume
+track: cto
 ---
 
 # Nicolas Paris

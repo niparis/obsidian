@@ -1,8 +1,7 @@
 ---
 tags:
   - job-search
-  - resume
-  - review
+doc_type: review
 ---
 
 # Resume Review — Nicolas Paris (2026-02-24)

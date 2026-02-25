@@ -1,8 +1,7 @@
 ---
 tags:
   - job-search
-  - resume
-  - prompts
+doc_type: prompts
 ---
 
 # Resume / Job Search Prompts

@@ -1,10 +1,8 @@
 ---
 tags:
   - job-search
-  - resume
-  - cv-track
-  - head-of-ai
-  - genai
+doc_type: resume
+track: head-of-ai
 ---
 
 # Nicolas Paris

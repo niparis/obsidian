@@ -1,8 +1,8 @@
 ---
 tags:
   - job-search
-  - resume
-  - master-cv
+doc_type: resume
+track: master
 ---
 
 # Nicolas Paris

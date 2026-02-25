@@ -1,9 +1,7 @@
 ---
 tags:
   - job-search
-  - resume
-  - prompt-runs
-  - execution-log
+doc_type: prompt-run-log
 ---
 
 # Resume Prompt Runs — Nicolas Paris (2026-02-24)

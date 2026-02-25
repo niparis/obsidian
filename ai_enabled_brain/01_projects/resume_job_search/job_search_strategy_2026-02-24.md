@@ -1,8 +1,7 @@
 ---
 tags:
   - job-search
-  - strategy
-  - positioning
+doc_type: strategy
 ---
 
 # Job Search Strategy — Strategic Reality Assessment (2026-02-24)

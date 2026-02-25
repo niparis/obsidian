@@ -1,8 +1,7 @@
 ---
 tags:
   - job-search
-  - hub
-  - moc
+doc_type: moc
 ---
 
 # Job Search Hub
@@ -27,3 +26,14 @@ tags:
 - `tag:#job-search tag:#resume`
 - `tag:#job-search tag:#strategy`
 - `tag:#cv-track`
+
+## Tag Governance (anti-explosion)
+Use **one canonical tag only** across all job-search notes:
+- `#job-search`
+
+Use frontmatter fields for structure instead of new tags:
+- `doc_type:` one of `moc | strategy | prompts | review | prompt-run-log | resume`
+- `track:` only when relevant (`master | cto | head-of-ai`)
+
+Rule: no new tags unless explicitly decided in this MOC.
+
