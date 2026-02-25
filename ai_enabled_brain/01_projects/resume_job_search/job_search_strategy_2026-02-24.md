@@ -185,6 +185,7 @@ Without sounding like:
 
 ## Related Notes
 - [[job_search_hub]]
+- [[resume_job_search/job_target_watchlist_2026-02-25]]
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02_CTO]]
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI]]
 - [[resume_job_search_prompts]]
