@@ -71,3 +71,9 @@
 - Use this source as a mechanism lens, not as personality-level attack content.
 - Phrase as: "This argument highlights a mechanism worth testing in enterprise AI orgs..."
 - Avoid presenting unverified personal claims as settled fact.
+
+## Idea capture — 2026-02-23
+- Post deconstructions of production failures.
+- Write about RAG failure modes.
+- Publish architecture tradeoffs.
+- Explain institutional AI deployment constraints.
