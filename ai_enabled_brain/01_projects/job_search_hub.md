@@ -12,9 +12,11 @@ doc_type: moc
 - [[resume_job_search/resume_review_2026-02-24]]
 - [[resume_job_search/resume_prompt_runs_2026-02-24]]
 
-## Resume Assets
-- [[resume_job_search/Nicolas_Paris_Resume_2026-02.pdf]]
-- [[resume_job_search/Nicolas_Paris_Resume_2026-02_enterprise-growth.pdf]]
+## Current Active Resumes
+- 2026 Growth CTO: [[resume_job_search/Nicolas_Paris_Resume_2026-02_enterprise-growth.pdf]]
+- 2026 AI Platform Executive: [[resume_job_search/Nicolas_Paris_Resume_2026-02.pdf]]
+
+## Resume Assets (Archive / Working)
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten]]
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02_CTO]]
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI]]

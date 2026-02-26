@@ -11,9 +11,11 @@ Saved for later.
 ## Profile Links
 - LinkedIn: https://www.linkedin.com/in/nicolasparis/
 
-## Stored Resume
-- Resume v1 PDF: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02.pdf`
-- Resume v2 PDF (Enterprise/Growth framing): `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_enterprise-growth.pdf`
+## Current Active Resumes
+- 2026 Growth CTO: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_enterprise-growth.pdf`
+- 2026 AI Platform Executive: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02.pdf`
+
+## Working Notes
 - Review note: `01_projects/resume_job_search/resume_review_2026-02-24.md`
 
 ## 1) Spot the Flaws
