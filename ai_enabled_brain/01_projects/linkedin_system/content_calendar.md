@@ -77,3 +77,6 @@
 - Write about RAG failure modes.
 - Publish architecture tradeoffs.
 - Explain institutional AI deployment constraints.
+- Vibe coding / AI-assisted coding shifts the skill premium:
+  - people-management skills become less central in some workflows,
+  - influence/orchestration skills become more valuable.
