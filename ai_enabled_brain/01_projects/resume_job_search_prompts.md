@@ -12,7 +12,8 @@ Saved for later.
 - LinkedIn: https://www.linkedin.com/in/nicolasparis/
 
 ## Stored Resume
-- Latest PDF: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02.pdf`
+- Resume v1 PDF: `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02.pdf`
+- Resume v2 PDF (Enterprise/Growth framing): `01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_enterprise-growth.pdf`
 - Review note: `01_projects/resume_job_search/resume_review_2026-02-24.md`
 
 ## 1) Spot the Flaws

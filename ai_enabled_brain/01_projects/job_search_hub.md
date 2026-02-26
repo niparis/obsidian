@@ -14,6 +14,7 @@ doc_type: moc
 
 ## Resume Assets
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02.pdf]]
+- [[resume_job_search/Nicolas_Paris_Resume_2026-02_enterprise-growth.pdf]]
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten]]
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02_CTO]]
 - [[resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI]]
