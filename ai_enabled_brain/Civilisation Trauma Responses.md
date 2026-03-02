@@ -11,16 +11,12 @@
 > Some traditions responded by reducing desire. Buddhist thinkers argued that suffering arises from craving; freedom lies in loosening attachment. Epicurus similarly concluded that tranquility comes not from acquiring more but from wanting less.
 
 > Other traditions tried to reconcile ambition with stability. Aristotle believed fulfillment came from excellence rather than pleasure. The Bhagavad Gita encouraged action without attachment to results.
-
->   
-
+> 
 > These ideas differ in tone, but they respond to the same observation: happiness is unstable.
-
->   
 
 > Yet philosophy alone was never the full answer. Entire civilisations eventually confronted the same psychological problem, and their solutions were not merely individual practices but social systems. Religions, moral codes, and cultural ideals all helped people interpret success, failure, suffering, and ambition in ways that made life feel meaningful despite the fading of satisfaction.
 
-## **3. From Philosophers to Civilisations: Why We Need a Bigger Map**
+## **2. From Philosophers to Civilisations: Why We Need a Bigger Map**
 
   
 
