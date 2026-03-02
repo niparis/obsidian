@@ -164,15 +164,11 @@ In the **Bhagavad Gita**, one of India’s central philosophical texts, the solu
 
 Centuries later, **Friedrich Nietzsche** approached the problem from a radically different angle. Rather than escaping suffering, he argued, one should learn to affirm life in its entirety—including its difficulties. The highest individual does not merely endure hardship but embraces it as part of the creative process of becoming.
 
-  
 
 Meanwhile, the **Confucian** tradition in East Asia located meaning less in individual psychology and more in social order. A good life emerges through fulfilling one’s roles—parent, child, ruler, citizen—with dignity and care. Ritual, responsibility, and harmony anchor the individual within a stable structure that gives everyday actions significance.
 
-  
 
 At this point the landscape of responses becomes far richer.
-
-  
 
 Some traditions reduce desire.
 
@@ -182,15 +178,9 @@ Others affirm struggle.
 
 Others anchor meaning in social structure.
 
-  
-
 Yet even these philosophers do not fully explain the diversity of human responses to the fading of happiness.
 
-  
-
 Each thinker speaks from within a particular cultural world.
-
-  
 
 To see the full range of answers, we need to zoom out further—not just to philosophers, but to the civilisations that shaped them.
 
