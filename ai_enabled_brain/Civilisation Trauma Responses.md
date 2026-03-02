@@ -1,5 +1,5 @@
 Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isaiah Berlin**
-## **1.  **The Instability of Satisfaction**
+## **1.  The Instability of Satisfaction**
 > 
 > Human satisfaction has a strange property: it fades quickly.
 
@@ -17,7 +17,7 @@ Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isai
 
 > Yet philosophy alone was never the full answer. Entire civilisations eventually confronted the same psychological problem, and their solutions were not merely individual practices but social systems. Religions, moral codes, and cultural ideals all helped people interpret success, failure, suffering, and ambition in ways that made life feel meaningful despite the fading of satisfaction.
 
-## **2. From Philosophers to Civilisations: Why We Need a Bigger Map**
+## **2. From Philosophers to Civilisations
 
 Individual philosophers can offer powerful insights into the human condition, but they rarely stand alone. Behind every thinker lies a cultural world that shaped the questions they asked and the answers that seemed plausible.
 
@@ -37,11 +37,9 @@ The following sections examine several of these civilisational strategies.
 
 ## **3. Civilisational Profiles**
 
-> If the hedonic treadmill is universal, the real diversity of human responses appears at the level of civilisation. Over time, cultures develop stable intuitions about what life is for, how suffering should be interpreted, and where meaning ultimately resides.>   
+> If the hedonic treadmill is universal, the real diversity of responses appears at the level of civilisation. Over centuries, cultures develop shared intuitions about what life is for, how suffering should be interpreted, and where meaning ultimately resides.
 
-> These intuitions are rarely expressed as formal theories. They live instead in religions, social norms, literature, and everyday practices. Taken together, they form coherent strategies for organising life despite the instability of pleasure.
-
-> The following traditions illustrate several of these **civilisational responses**.
+> The following traditions illustrate several such **civilisational responses** to the same underlying discovery: happiness fades
 
 ---
 
