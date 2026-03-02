@@ -35,11 +35,21 @@ And rather than converging on one solution, civilisations developed different wa
 
 The following sections examine several of these civilisational strategies.
 
-## **3. Civilisational Profiles**
+## Civilisations Under Pressure
 
-> If the hedonic treadmill is universal, the real diversity of responses appears at the level of civilisation. Over centuries, cultures develop shared intuitions about what life is for, how suffering should be interpreted, and where meaning ultimately resides.
+The hedonic treadmill is a universal psychological constraint. Human beings adapt quickly to improvement, and satisfaction fades soon after it is achieved. Yet the ways societies respond to this instability vary dramatically. The deepest differences appear not at the level of individuals, but at the level of civilisations.
 
-> The following traditions illustrate several such **civilisational responses** to the same underlying discovery: happiness fades
+Ideas about the purpose of life rarely emerge in abstraction. They crystallise under pressure. Repeated historical shocks—war, invasion, ecological constraint, political collapse, or sudden abundance—force societies to confront the fragility of fortune and the unreliability of pleasure. Over time, cultures absorb these experiences and distil them into enduring intuitions about how life should be lived.
+
+Philosophers give these intuitions their most articulate expression. Aristotle speaks of excellence, the Bhagavad Gita of detached action, Confucius of ritual order, Nietzsche of amor fati. But such ideas do not arise in isolation. They emerge from particular historical environments that repeatedly confront human beings with the same forms of instability.
+
+When a civilisation experiences similar crises across generations, its responses gradually harden into cultural frameworks. Religions, ethical traditions, social norms, and everyday practices begin to encode shared answers to fundamental questions: What survives when fortune disappears? Where should meaning reside if pleasure proves unreliable? How should one live in a world where success cannot be trusted to endure?
+
+These frameworks function as large-scale psychological strategies. They channel ambition, interpret suffering, and stabilise expectations. In doing so, they allow societies to organise life around something more durable than fluctuating satisfaction.
+
+Different historical pressures produce different solutions. Societies exposed to repeated political collapse may elevate mastery and excellence. Civilisations shaped by invasion and cosmological cycles may emphasise detachment from outcomes. Cultures forged through social disintegration may prioritise order and harmony. Others anchor meaning in duty, transcendence, or endurance.
+
+The following sections examine several such responses. Each represents not merely a philosophy, but a civilisational strategy: a way of organising life in the shadow of the same underlying discovery—that happiness fades, and meaning must therefore be built elsewhere.
 
 ---
 
