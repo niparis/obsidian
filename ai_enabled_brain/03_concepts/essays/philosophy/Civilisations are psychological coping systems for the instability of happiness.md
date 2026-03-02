@@ -205,7 +205,9 @@ Such systems function best in small, place-bound communities. They scale poorly 
 | **Polynesian**        | Extreme ecological constraint in isolated island environments     | **Embedded identity within lineage and land**  | Belonging to ancestry, place, and community         | Difficult to scale beyond small, place-bound societies  |
 
 
-## **4 What Each Civilisation Optimises For**
+
+
+## **4 . 5 What Each Civilisation Optimises For**
 
   
 
