@@ -230,7 +230,7 @@ Seen this way, civilisational wisdom does not primarily disagree about what make
 
 The table below summarises these protective logics. Each tradition identifies a vulnerability in human life and builds its meaning system around guarding against it.
 
-| **Tradition**     | **Civilisational Fear**                         | **Core Strategy**                                  |
+| **Tradition**     | **Civilisational Fear**                         | **Cultural Response**                              |
 | ----------------- | ----------------------------------------------- | -------------------------------------------------- |
 | Mediterranean     | chaos destroying beauty                         | cultivate excellence and balanced flourishing      |
 | Indian            | endless craving and attachment                  | detach from desire                                 |
