@@ -1648,23 +1648,3 @@ Unlike many philosophical traditions, Polynesian worldviews were primarily trans
   
 
 Human identity is embedded within a living network that includes community, ancestors, and the natural world.
-
----
-
-### **Closing Note**
-
-  
-
-These thinkers and texts represent only entry points into much deeper traditions. Civilisations are not reducible to a handful of books or philosophers.
-
-  
-
-Yet the works listed above provide windows into the intellectual and spiritual frameworks through which different cultures have confronted the same enduring question:
-
-  
-
-**If happiness is unstable, what should anchor a human life instead?**
-
-  
-
-Across continents and centuries, the answers vary dramatically. Taken together, they reveal the remarkable range of human thought devoted to solving that problem.
