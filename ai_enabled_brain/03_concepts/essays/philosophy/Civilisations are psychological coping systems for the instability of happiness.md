@@ -37,19 +37,15 @@ The following sections examine several of these civilisational strategies.
 
 ## 3. Civilisations Under Pressure
 
-The hedonic treadmill is a universal psychological constraint. Human beings adapt quickly to improvement, and satisfaction fades soon after it is achieved. Yet the ways societies respond to this instability vary dramatically. The deepest differences appear not at the level of individuals, but at the level of civilisations.
+The hedonic treadmill is universal, but the ways societies respond to it are not. Philosophies rarely emerge in abstraction. They crystallise under pressure.
 
-Ideas about the purpose of life rarely emerge in abstraction. They crystallise under pressure. Repeated historical shocks—war, invasion, ecological constraint, political collapse, or sudden abundance—force societies to confront the fragility of fortune and the unreliability of pleasure. Over time, cultures absorb these experiences and distil them into enduring intuitions about how life should be lived.
+Across history, civilisations have repeatedly confronted shocks that expose the instability of human fortunes: war, invasion, ecological constraint, political collapse, or sudden abundance. When such experiences recur across generations, cultures gradually develop shared intuitions about how life should be lived.
 
-Philosophers give these intuitions their most articulate expression. Aristotle speaks of excellence, the Bhagavad Gita of detached action, Confucius of ritual order, Nietzsche of amor fati. But such ideas do not arise in isolation. They emerge from particular historical environments that repeatedly confront human beings with the same forms of instability.
+Philosophers articulate these intuitions most clearly, but the ideas themselves belong to the wider civilisation. Aristotle’s pursuit of excellence, Confucius’s vision of harmonious order, the Bhagavad Gita’s call to detached action, or the Jewish emphasis on obligation all emerged from societies grappling with particular forms of instability.
 
-When a civilisation experiences similar crises across generations, its responses gradually harden into cultural frameworks. Religions, ethical traditions, social norms, and everyday practices begin to encode shared answers to fundamental questions: What survives when fortune disappears? Where should meaning reside if pleasure proves unreliable? How should one live in a world where success cannot be trusted to endure?
+Over time these responses harden into durable cultural frameworks. Religions, ethical traditions, and everyday practices begin to encode strategies for stabilising life despite the fading of pleasure.
 
-These frameworks function as large-scale psychological strategies. They channel ambition, interpret suffering, and stabilise expectations. In doing so, they allow societies to organise life around something more durable than fluctuating satisfaction.
-
-Different historical pressures produce different solutions. Societies exposed to repeated political collapse may elevate mastery and excellence. Civilisations shaped by invasion and cosmological cycles may emphasise detachment from outcomes. Cultures forged through social disintegration may prioritise order and harmony. Others anchor meaning in duty, transcendence, or endurance.
-
-The following sections examine several such responses. Each represents not merely a philosophy, but a civilisational strategy: a way of organising life in the shadow of the same underlying discovery—that happiness fades, and meaning must therefore be built elsewhere.
+Civilisations, in this sense, function as large-scale psychological coping systems. Each identifies a different vulnerability in human existence and constructs a philosophy designed to protect against it.
 
 ---
 ## Case Studies: Civilisational Responses
