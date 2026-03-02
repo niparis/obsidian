@@ -1,4 +1,4 @@
-Note: style > **compressed essayistic clarity** / - **Peter Turchin** / 
+Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isaiah Berlin**
 ## **1. Introduction: The Promise That Never Lasts**
 
 > Achievements feel permanent when we are chasing them. Afterward they rarely do.
