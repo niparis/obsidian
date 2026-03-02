@@ -1,5 +1,5 @@
 Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isaiah Berlin**
-## **1. Introduction: The Promise That Never Lasts**
+## **1.  The hedonic treadmill is not just a psychological curiosity. Over centuries, entire civilisations developed cultural systems designed to manage it.
 
 > Achievements feel permanent when we are chasing them. Afterward they rarely do.
 
