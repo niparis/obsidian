@@ -958,3 +958,85 @@ Seeing these tensions clearly is not a reason to reject any tradition. On the co
   
 
 The hedonic treadmill may be universal. But the ways human beings have learned to stand upon it are astonishingly diverse.
+
+
+## **5.5 What Each Civilisation Optimises For**
+
+  
+
+Looking across these traditions side by side reveals something important. Civilisations are not simply offering different techniques for happiness. They are **optimising for different problems**.
+
+  
+
+Each tradition begins with a particular fear about the human condition. From that fear emerges a strategy for organising life so that meaning remains possible even when pleasure fades.
+
+  
+
+Seen this way, the diversity of civilisational wisdom becomes easier to understand. What appears like disagreement is often simply a difference in **what each culture considers the greatest danger**.
+
+  
+
+Some fear chaos.
+
+Others fear endless craving.
+
+Others fear meaninglessness, exile, or spiritual emptiness.
+
+  
+
+Their philosophies are attempts to build stable lives around those fears.
+
+|**Tradition**|**Core Fear**|**Core Strategy**|
+|---|---|---|
+|Mediterranean|chaos destroying beauty|cultivate excellence and balanced flourishing|
+|Indian|endless craving and attachment|detach from desire|
+|Northern European|meaninglessness after the collapse of tradition|create meaning through will and action|
+|Russian|a world without spiritual depth|redeem suffering through moral struggle|
+|East Asian|social disorder and fragmentation|harmonise roles and relationships|
+|Jewish|exile, loss, and historical rupture|sustain identity through responsibility and repair|
+|Islamic|spiritual emptiness and moral disorientation|orient desire toward God|
+|Polynesian|separation from nature and community|dissolve the individual into the living world|
+
+This framework highlights an important pattern.
+
+  
+
+Mediterranean culture protects **human flourishing**.
+
+Indian traditions protect **inner freedom**.
+
+Northern European thought protects **individual strength**.
+
+Russian culture protects **moral depth**.
+
+Confucian civilisation protects **social harmony**.
+
+Jewish civilisation protects **ethical responsibility and continuity**.
+
+Islamic civilisation protects **spiritual orientation**.
+
+Polynesian cultures protect **ecological belonging**.
+
+  
+
+Each response addresses a real vulnerability in human life. Yet no single civilisation solves the entire problem.
+
+  
+
+The Mediterranean love of flourishing can appear fragile in times of catastrophe. Indian detachment can drift toward disengagement from worldly responsibility. Northern European self-creation can become lonely and exhausting. Russian moral seriousness can romanticise suffering. Confucian harmony may suppress individuality. Jewish urgency can make rest difficult. Islamic transcendence may struggle with secular modernity. Polynesian integration with nature can be vulnerable to external disruption.
+
+  
+
+In other words, every solution that stabilises life against the fading of happiness does so by **prioritising one dimension of human existence over others**.
+
+  
+
+Civilisations are therefore not merely collections of beliefs. They are long-term experiments in answering a single question:
+
+  
+
+**If happiness cannot anchor a life, what should?**
+
+  
+
+The answers humanity has produced are remarkably diverse. And it is only by placing them next to each other that we begin to see the full map of possibilities.
