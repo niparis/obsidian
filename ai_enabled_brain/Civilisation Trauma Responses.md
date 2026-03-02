@@ -2146,39 +2146,326 @@ One points upward toward the divine;
 
 the other outward toward the interconnectedness of nature.
 
+## **Appendix D — Key Thinkers and Texts**
+
+  
+
+The civilisational patterns described in this essay did not arise from a single author or moment in history. They are the result of long cultural developments expressed through religion, philosophy, literature, and social practice.
+
+  
+
+However, certain thinkers and texts capture the core intuitions of each tradition with particular clarity. The following list highlights some of the most influential sources through which these civilisational responses to the instability of happiness have been articulated.
+
+  
+
+The purpose is not to provide an exhaustive bibliography but to point toward **representative voices** that illuminate each worldview.
+
 ---
 
-## **Reading the Pairwise Comparisons**
+### **Mediterranean / Aristotelian**
 
   
 
-These contrasts are not meant to imply incompatibility. In reality, many societies contain elements of several traditions at once.
+**Key Thinkers**
 
-  
-
-The purpose of the comparisons is simply to show that civilisations represent **different ways of stabilising meaning in a world where happiness fades**.
-
-  
-
-Each tradition highlights one dimension of life:
-
-- flourishing
+- Aristotle
     
-- detachment
+- Plato
     
-- strength
-    
-- suffering
-    
-- harmony
-    
-- responsibility
-    
-- transcendence
-    
-- belonging
+- Cicero
     
 
   
 
-The full range of human wisdom emerges only when these perspectives are viewed together.
+**Key Texts**
+
+- _Nicomachean Ethics_ — Aristotle
+    
+- _Politics_ — Aristotle
+    
+- _The Republic_ — Plato
+    
+- _On Duties_ (_De Officiis_) — Cicero
+    
+
+  
+
+**Core Idea**
+
+  
+
+Human flourishing arises through the cultivation of virtue and excellence within a well-ordered community.
+
+---
+
+### **Indian (Buddhist and Hindu Traditions)**
+
+  
+
+**Key Thinkers**
+
+- Siddhartha Gautama (the Buddha)
+    
+- Vyasa (traditionally associated with the _Bhagavad Gita_)
+    
+- Nagarjuna
+    
+
+  
+
+**Key Texts**
+
+- _The Dhammapada_
+    
+- _The Bhagavad Gita_
+    
+- _The Upanishads_
+    
+- _Mulamadhyamakakarika_ — Nagarjuna
+    
+
+  
+
+**Core Idea**
+
+  
+
+Suffering arises from attachment and craving; liberation comes through insight, disciplined action, and detachment from outcomes.
+
+---
+
+### **Northern European / Nietzschean**
+
+  
+
+**Key Thinkers**
+
+- Friedrich Nietzsche
+    
+- Søren Kierkegaard
+    
+- Martin Heidegger
+    
+
+  
+
+**Key Texts**
+
+- _Thus Spoke Zarathustra_ — Nietzsche
+    
+- _Beyond Good and Evil_ — Nietzsche
+    
+- _The Sickness Unto Death_ — Kierkegaard
+    
+- _Being and Time_ — Heidegger
+    
+
+  
+
+**Core Idea**
+
+  
+
+In a world where traditional structures of meaning weaken, individuals must confront existential freedom and create meaning through their actions.
+
+---
+
+### **Russian / Dostoevskian**
+
+  
+
+**Key Thinkers**
+
+- Fyodor Dostoevsky
+    
+- Leo Tolstoy
+    
+- Nikolai Berdyaev
+    
+
+  
+
+**Key Texts**
+
+- _The Brothers Karamazov_ — Dostoevsky
+    
+- _Crime and Punishment_ — Dostoevsky
+    
+- _War and Peace_ — Tolstoy
+    
+- _The Destiny of Man_ — Berdyaev
+    
+
+  
+
+**Core Idea**
+
+  
+
+Human suffering, when confronted honestly, can reveal moral and spiritual depth.
+
+---
+
+### **East Asian / Confucian**
+
+  
+
+**Key Thinkers**
+
+- Confucius
+    
+- Mencius
+    
+- Xunzi
+    
+
+  
+
+**Key Texts**
+
+- _The Analects_ — Confucius
+    
+- _Mencius_
+    
+- _The Great Learning_
+    
+- _The Doctrine of the Mean_
+    
+
+  
+
+**Core Idea**
+
+  
+
+Meaning emerges through the harmonious fulfillment of social roles within a stable moral order.
+
+---
+
+### **Jewish**
+
+  
+
+**Key Thinkers**
+
+- Moses (as the central figure of the Torah tradition)
+    
+- Maimonides
+    
+- Martin Buber
+    
+
+  
+
+**Key Texts**
+
+- _The Torah_ (Hebrew Bible)
+    
+- _Guide for the Perplexed_ — Maimonides
+    
+- _I and Thou_ — Martin Buber
+    
+
+  
+
+**Core Idea**
+
+  
+
+Human life is structured through covenant, ethical responsibility, and the ongoing effort to repair the world.
+
+---
+
+### **Islamic**
+
+  
+
+**Key Thinkers**
+
+- The Prophet Muhammad
+    
+- Al-Ghazali
+    
+- Ibn Sina (Avicenna)
+    
+- Ibn Khaldun
+    
+
+  
+
+**Key Texts**
+
+- _The Qur’an_
+    
+- _The Revival of the Religious Sciences_ — Al-Ghazali
+    
+- _The Book of Healing_ — Ibn Sina
+    
+- _The Muqaddimah_ — Ibn Khaldun
+    
+
+  
+
+**Core Idea**
+
+  
+
+Human life gains meaning through submission to divine will and alignment with a transcendent moral order.
+
+---
+
+### **Polynesian**
+
+  
+
+Unlike many philosophical traditions, Polynesian worldviews were primarily transmitted through **oral tradition** rather than formal philosophical texts.
+
+  
+
+**Key Sources**
+
+- Creation chants and genealogical traditions
+    
+- Navigational knowledge systems
+    
+- Oral histories and mythological cycles
+    
+
+  
+
+**Representative Themes**
+
+- the sacred relationship between land, sea, and ancestors
+    
+- communal identity and kinship
+    
+- ecological balance
+    
+
+  
+
+**Core Idea**
+
+  
+
+Human identity is embedded within a living network that includes community, ancestors, and the natural world.
+
+---
+
+### **Closing Note**
+
+  
+
+These thinkers and texts represent only entry points into much deeper traditions. Civilisations are not reducible to a handful of books or philosophers.
+
+  
+
+Yet the works listed above provide windows into the intellectual and spiritual frameworks through which different cultures have confronted the same enduring question:
+
+  
+
+**If happiness is unstable, what should anchor a human life instead?**
+
+  
+
+Across continents and centuries, the answers vary dramatically. Taken together, they reveal the remarkable range of human thought devoted to solving that problem.
