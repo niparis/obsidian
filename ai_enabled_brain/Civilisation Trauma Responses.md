@@ -1040,3 +1040,5 @@ Civilisations are therefore not merely collections of beliefs. They are long-ter
   
 
 The answers humanity has produced are remarkably diverse. And it is only by placing them next to each other that we begin to see the full map of possibilities.
+
+
