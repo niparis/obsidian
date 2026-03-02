@@ -230,40 +230,16 @@ Seen this way, civilisational wisdom does not primarily disagree about what make
 
 The table below summarises these protective logics. Each tradition identifies a vulnerability in human life and builds its meaning system around guarding against it.
 
-| **Tradition**     | **Civilisational Fear**                         | **Cultural Response**                              |
-| ----------------- | ----------------------------------------------- | -------------------------------------------------- |
-| Mediterranean     | chaos destroying beauty                         | cultivate excellence and balanced flourishing      |
-| Indian            | endless craving and attachment                  | detach from desire                                 |
-| Northern European | meaninglessness after the collapse of tradition | create meaning through will and action             |
-| Russian           | a world without spiritual depth                 | redeem suffering through moral struggle            |
-| East Asian        | social disorder and fragmentation               | harmonise roles and relationships                  |
-| Jewish            | exile, loss, and historical rupture             | sustain identity through responsibility and repair |
-| Islamic           | spiritual emptiness and moral disorientation    | orient desire toward God                           |
-| Polynesian        | separation from nature and community            | dissolve the individual into the living world      |
-
-This framework highlights an important pattern.
-
-  
-
-Mediterranean culture protects **human flourishing**.
-
-Indian traditions protect **inner freedom**.
-
-Northern European thought protects **individual strength**.
-
-Russian culture protects **moral depth**.
-
-Confucian civilisation protects **social harmony**.
-
-Jewish civilisation protects **ethical responsibility and continuity**.
-
-Islamic civilisation protects **spiritual orientation**.
-
-Polynesian cultures protect **ecological belonging**.
-
-  
-
-
+| Tradition         | Civilisational Fear                             | Cultural Response                                  | What It Protects                      |
+| ----------------- | ----------------------------------------------- | -------------------------------------------------- | ------------------------------------- |
+| Mediterranean     | chaos destroying beauty                         | cultivate excellence and balanced flourishing      | human flourishing                     |
+| Indian            | endless craving and attachment                  | detach from desire                                 | inner freedom                         |
+| Northern European | meaninglessness after the collapse of tradition | create meaning through will and action             | individual strength                   |
+| Russian           | a world without spiritual depth                 | redeem suffering through moral struggle            | moral depth                           |
+| East Asian        | social disorder and fragmentation               | harmonise roles and relationships                  | social harmony                        |
+| Jewish            | exile, loss, and historical rupture             | sustain identity through responsibility and repair | ethical responsibility and continuity |
+| Islamic           | spiritual emptiness and moral disorientation    | orient desire toward God                           | spiritual orientation                 |
+| Polynesian        | separation from nature and community            | dissolve the individual into the living world      | ecological belonging                  |
 
 ## **5 The Strengths and Shadows of Civilisational Wisdom**
 
