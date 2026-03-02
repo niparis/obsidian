@@ -35,7 +35,7 @@ And rather than converging on one solution, civilisations developed different wa
 
 The following sections examine several of these civilisational strategies.
 
-## Civilisations Under Pressure
+## 3. Civilisations Under Pressure
 
 The hedonic treadmill is a universal psychological constraint. Human beings adapt quickly to improvement, and satisfaction fades soon after it is achieved. Yet the ways societies respond to this instability vary dramatically. The deepest differences appear not at the level of individuals, but at the level of civilisations.
 
@@ -191,6 +191,18 @@ By dissolving the sharply bounded individual, the culture removes the psychologi
 **Blind Spot**
 
 Such systems function best in small, place-bound communities. They scale poorly in large, mobile, modern societies.
+
+### Comparative Summary of Civilisational Responses
+
+| Civilisation          | Recurring Historical Pressure                                     | Psychological Strategy                         | Where Meaning Is Anchored                           | Structural Blind Spot                                   |
+| --------------------- | ----------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
+| **Mediterranean**     | Cycles of political rise and collapse among competing city-states | Pursuit of **excellence** (*arete*)            | Mastery, virtue, cultivated skill                   | Requires stability and leisure; can become aristocratic |
+| **Indian**            | Cyclical suffering, invasions, and cosmology of endless rebirth   | **Detachment from outcomes**                   | Duty performed without attachment to results        | May drift into passivity or acceptance of injustice     |
+| **Northern European** | Sequential collapse of religious and metaphysical frameworks      | **Assertion of individual will**               | Self-created values and affirmation of fate         | Psychological extremity; risk of nihilism or isolation  |
+| **East Asian**        | Prolonged social disorder and need for collective coordination    | **Harmony through social roles**               | Ritual, hierarchy, and relational duty              | Conformity may suppress dissent and individuality       |
+| **Islamic**           | Rapid expansion from austerity to imperial abundance              | **Redirection of desire toward transcendence** | Devotion to the divine as infinite object of desire | Dependent on sustained religious belief                 |
+| **Jewish**            | Repeated destruction followed by rebuilding across centuries      | **Obligation and repair**                      | Law, responsibility, and covenantal duty            | Persistent urgency; difficulty finding rest             |
+| **Polynesian**        | Extreme ecological constraint in isolated island environments     | **Embedded identity within lineage and land**  | Belonging to ancestry, place, and community         | Difficult to scale beyond small, place-bound societies  |
 
 ## **4. Civilisations in Contact: Tensions and Mirrors**
 
