@@ -1,5 +1,7 @@
 Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isaiah Berlin**
-## **1.  The hedonic treadmill is not just a psychological curiosity. Over centuries, entire civilisations developed cultural systems designed to manage it.
+## **1.  **The Instability of Satisfaction**
+> 
+> Human satisfaction has a strange property: it fades quickly.
 
 > The hedonic treadmill is not just a psychological curiosity. Over centuries, entire civilisations developed cultural systems designed to manage it.
 
@@ -16,8 +18,6 @@ Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isai
 > Yet philosophy alone was never the full answer. Entire civilisations eventually confronted the same psychological problem, and their solutions were not merely individual practices but social systems. Religions, moral codes, and cultural ideals all helped people interpret success, failure, suffering, and ambition in ways that made life feel meaningful despite the fading of satisfaction.
 
 ## **2. From Philosophers to Civilisations: Why We Need a Bigger Map**
-
-  
 
 Individual philosophers can offer powerful insights into the human condition. But they rarely stand alone. Behind every thinker lies a cultural world that shaped the questions they asked and the answers that felt plausible.
 
