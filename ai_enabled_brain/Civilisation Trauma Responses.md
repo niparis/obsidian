@@ -1,13 +1,11 @@
 Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isaiah Berlin**
 ## **1.  The hedonic treadmill is not just a psychological curiosity. Over centuries, entire civilisations developed cultural systems designed to manage it.
 
-> Achievements feel permanent when we are chasing them. Afterward they rarely do.
+> The hedonic treadmill is not just a psychological curiosity. Over centuries, entire civilisations developed cultural systems designed to manage it.
 
-> A promotion, a successful project, a new home: each briefly changes how the world feels. Then the change fades. What once felt extraordinary becomes ordinary, and expectations quietly adjust upward.
+> Humans adapt quickly to improvements in their circumstances. A promotion, a successful project, a new home—each briefly changes how the world feels. Then the change fades, expectations reset, and attention shifts to the next goal.
 
-> Psychologists call this the hedonic treadmill. Humans adapt quickly to improvements in their circumstances and return to roughly the same level of satisfaction.
-
-> This pattern is not a modern discovery. Long before psychology existed, philosophers had already noticed that pleasure fades and desire renews itself.
+> Long before psychology named this process, philosophers had already noticed it. Pleasure fades, success loses intensity, and desire quickly renews itself.
 
 > Some traditions responded by reducing desire. Buddhist thinkers argued that suffering arises from craving; freedom lies in loosening attachment. Epicurus similarly concluded that tranquility comes not from acquiring more but from wanting less.
 
