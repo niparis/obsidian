@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Nicolas_Paris_Resume_2026-02_rewritten"
             }
+          },
+          {
+            "id": "f63cd52b5f2511b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,8 +228,12 @@
       "obsidian-opencode:OpenCode": false
     }
   },
-  "active": "d85c27dd8924ae73",
+  "active": "f63cd52b5f2511b2",
   "lastOpenFiles": [
+    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md",
+    "Untitled.md",
+    "03_concepts/essays/philosophy",
+    "03_concepts/essays",
     "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_enterprise-growth.pdf",
     "01_projects/resume_job_search/job_target_watchlist_2026-02-25.md",
     "01_projects/resume_job_search/job_search_strategy_2026-02-24.md",
@@ -230,7 +248,6 @@
     "01_projects/resume_job_search_prompts.md",
     "01_projects/resume_job_search/resume_review_2026-02-24.md",
     "01_projects/resume_job_search/resume_prompt_runs_2026-02-24.md",
-    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md",
     "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02.pdf",
     "01_projects/resume_job_search",
     "01_projects/linkedin_system/drafts/2026-02-23-agentic-maturity-roadmap.md",
@@ -244,9 +261,6 @@
     "05_resources/opencode-todo.md",
     "05_resources/opencode-context.md",
     "05_resources/library/Python Cookbook, Third Edition - David Beazley, Brian K. Jones.pdf",
-    "05_resources/library/Mastering PostgreSQL in Application Develo - Dimitri Fontaine.pdf",
-    "05_resources/library/Implementing The Clean Architecture (475).pdf",
-    "05_resources/library/Data-Oriented Programming - Yehonathan Sharvit.pdf",
     "03_concepts/technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
     "03_concepts/technology/Data-Oriented Programming (MOC).md",
     "03_concepts/ui-brief-template.md",
