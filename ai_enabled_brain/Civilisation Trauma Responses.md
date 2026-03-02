@@ -21,7 +21,6 @@ Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isai
 
 Individual philosophers can offer powerful insights into the human condition. But they rarely stand alone. Behind every thinker lies a cultural world that shaped the questions they asked and the answers that felt plausible.
 
-  
 
 Aristotle did not emerge in a vacuum. His vision of human flourishing—cultivating excellence within a community of citizens—reflects the social world of the Greek city-state. Confucius’s emphasis on harmony and ritual grew from centuries of political disorder in ancient China and the urgent need to restore stable social hierarchies. The Buddha’s diagnosis of suffering was formed in a civilisation deeply preoccupied with cycles of birth, death, and rebirth.
 
@@ -101,7 +100,7 @@ If the hedonic treadmill is universal, then these civilisational responses form 
 
 Understanding that map is the first step toward seeing the problem more clearly—and perhaps toward choosing more deliberately how we want to live within it.
 
-## **4. Civilisational Profiles**
+## **3. Civilisational Profiles**
 
   
 
@@ -117,7 +116,7 @@ Each of the following traditions can be understood as a **civilisational respons
 
 ---
 
-### **4.1 Mediterranean / Aristotelian**
+### **3.1 Mediterranean / Aristotelian**
 
   
 
@@ -174,7 +173,7 @@ Cultures built around flourishing can struggle when history becomes catastrophic
 
 ---
 
-### **4.2 Indian (Buddha + Gita)**
+### **3.2 Indian (Buddha + Gita)**
 
   
 
@@ -229,7 +228,7 @@ In its extreme forms, the pursuit of liberation can tilt toward withdrawal from 
 
 ---
 
-### **4.3 Northern European / Nietzschean**
+### **3.3 Northern European / Nietzschean**
 
   
 
@@ -290,7 +289,7 @@ In its darker forms, this tradition risks sliding into nihilism or relentless co
 
 ---
 
-### **4.4 Russian / Dostoevskian**
+### **3.4 Russian / Dostoevskian**
 
   
 
@@ -349,7 +348,7 @@ In extreme forms, this outlook can encourage a fatalistic acceptance of pain.
 
 ---
 
-### **4.5 East Asian / Confucian**
+### **3.5 East Asian / Confucian**
 
   
 
@@ -410,7 +409,7 @@ Creativity and personal freedom sometimes struggle within strongly hierarchical 
 
 ---
 
-### **4.6 Jewish**
+### **3.6 Jewish**
 
   
 
@@ -467,7 +466,7 @@ The constant emphasis on responsibility and survival can create a sense of perpe
 
 ---
 
-### **4.7 Islamic**
+### **3.7 Islamic**
 
   
 
@@ -518,7 +517,7 @@ The emphasis on divine sovereignty can, in some contexts, tilt toward fatalism. 
 
 ---
 
-### **4.8 Polynesian**
+### **3.8 Polynesian**
 
   
 
@@ -580,7 +579,7 @@ Others will, suffering, harmony, obligation, transcendence, or belonging.
 
 Together they form a map—not of perfect solutions, but of the many ways human cultures have learned to live with the same fundamental truth: pleasure fades, but life does not have to lose its meaning when it does.
 
-## **5. Civilisations in Contact: Tensions and Mirrors**
+## **4. Civilisations in Contact: Tensions and Mirrors**
 
   
 
@@ -791,7 +790,7 @@ Seeing these tensions clearly is not a reason to reject any tradition. On the co
 The hedonic treadmill may be universal. But the ways human beings have learned to stand upon it are astonishingly diverse.
 
 
-## **5.5 What Each Civilisation Optimises For**
+## **4.5 What Each Civilisation Optimises For**
 
   
 
@@ -873,7 +872,7 @@ Civilisations are therefore not merely collections of beliefs. They are long-ter
 The answers humanity has produced are remarkably diverse. And it is only by placing them next to each other that we begin to see the full map of possibilities.
 
 
-## **6. The Strengths and Shadows of Civilisational Wisdom**
+## **5 The Strengths and Shadows of Civilisational Wisdom**
 
   
 
