@@ -1,4 +1,4 @@
-Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isaiah Berlin**
+Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isaiah Berlin / - **Toynbee****
 ## **1.  The Instability of Satisfaction**
 > 
 > Human satisfaction has a strange property: it fades quickly.
