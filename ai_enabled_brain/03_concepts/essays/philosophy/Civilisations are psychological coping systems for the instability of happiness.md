@@ -237,84 +237,17 @@ The table below summarises these protective logics. Each tradition identifies a 
 | Islamic           | spiritual emptiness and moral disorientation    | orient desire toward God                           | spiritual orientation                 |
 | Polynesian        | separation from nature and community            | dissolve the individual into the living world      | ecological belonging                  |
 
-
 ## **6. Conclusion: Dancing With the Wheel**
 
-  
+The hedonic treadmill is not simply a psychological curiosity. It is one of the fundamental constraints shaping human civilisation.
 
-The hedonic treadmill can feel like a discouraging discovery.
+Across history, societies confronted the instability of pleasure in different ways. Some reduced desire. Others anchored meaning in excellence, obligation, harmony, or transcendence. Each tradition developed a framework designed to stabilise life around something more durable than fluctuating satisfaction.
 
-  
+These solutions were never neutral. Each civilisation protected a particular dimension of human existence—flourishing, freedom, strength, harmony, responsibility, spiritual orientation, or belonging. In doing so, each left other dimensions exposed.
 
-If satisfaction fades, if achievements quickly become normal, if pleasure never stabilises for long, then the pursuit of happiness begins to look strangely fragile. Many people encounter this realization gradually, often after years of striving. What once appeared to be the final milestone reveals itself as only another step.
+No culture solved the problem completely. Every philosophy of life is also a compromise.
 
-  
-
-But civilisations have lived with this knowledge for a very long time.
-
-  
-
-Long before psychologists named the phenomenon, cultures across the world noticed the same pattern. Pleasure fades. Success loses its intensity. Desire quietly resets and begins moving again.
-
-  
-
-Rather than treating this as a flaw in life, they built ways of living around it.
-
-  
-
-Some traditions concluded that the solution was to loosen the grip of desire itself. Others decided that meaning must be created through excellence, courage, responsibility, or spiritual orientation. Some anchored life in social harmony, others in moral struggle, and still others in a deep sense of belonging within nature.
-
-  
-
-What they all shared was a refusal to treat happiness as the central foundation of a life.
-
-  
-
-The hedonic treadmill does not disappear. But it stops being the main reference point.
-
-  
-
-Instead, life becomes organised around something more durable: mastery, duty, transcendence, community, depth, or inner freedom.
-
-  
-
-Seen from this perspective, the diversity of civilisational wisdom begins to look less like disagreement and more like **a map of human experimentation**. Different cultures explored different ways of stabilising meaning in a world where pleasure inevitably fades.
-
-  
-
-No single tradition solves the problem completely. Each illuminates part of the landscape while leaving other areas less developed. Yet taken together they reveal something encouraging.
-
-  
-
-Human beings have never relied solely on happiness to justify their lives.
-
-  
-
-They have learned to build structures of meaning that remain standing even when the emotional weather changes.
-
-  
-
-The image of the treadmill therefore deserves a small correction.
-
-  
-
-We do not escape the wheel. Human desire continues to move, and new goals will always appear on the horizon. But once we understand the pattern, the relationship to it can change.
-
-  
-
-The person who studies the map of civilisational wisdom does not chase the next moment of satisfaction with the same desperation. Instead, he begins to shape his life around deeper principles—principles that remain meaningful even as moods and pleasures fluctuate.
-
-  
-
-In that sense, the goal is not to jump off the treadmill.
-
-  
-
-It is to learn **how to stand on it without letting it decide what life is for**.
-
-  
-
-And when that shift occurs, the wheel that once seemed exhausting becomes something else entirely: a movement within a larger life whose direction is no longer determined by the next fleeting reward.
+Seen this way, the diversity of civilisations reflects not disagreement about happiness, but disagreement about what must be protected from collapse.
 
 
 ## **Appendix A — Civilisational Response Matrix**
