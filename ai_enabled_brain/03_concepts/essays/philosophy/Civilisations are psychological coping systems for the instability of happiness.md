@@ -1291,3 +1291,34 @@ Unlike many philosophical traditions, Polynesian worldviews were primarily trans
   
 
 Human identity is embedded within a living network that includes community, ancestors, and the natural world.
+
+
+
+### Appendix D. A Three-Axis Model of Civilisational Strategies
+
+The diversity of civilisational philosophies can be understood as different ways of stabilising three fundamental psychological variables: **desire**, **authority**, and **identity**.
+
+The hedonic treadmill destabilises life because human beings continuously want more, interpret meaning through shifting frameworks, and experience themselves as agents pursuing satisfaction. Civilisations therefore develop cultural systems that “lock” one or more of these variables into stable configurations.
+
+Three axes capture these stabilising strategies.
+
+**1. Desire**  
+Civilisations differ in how they handle human wanting. Some traditions attempt to *reduce or detach from desire*, arguing that craving itself generates suffering. Others *intensify or redirect desire* toward excellence, achievement, or transcendence.
+
+**2. Authority of Meaning**  
+Cultures also differ in where meaning is anchored. Some locate it in **external structures** such as divine law, social order, or cosmological frameworks. Others place responsibility for meaning within the **individual will**.
+
+**3. Identity**  
+Finally, civilisations vary in how they define the self. In some traditions the individual is **embedded** within lineage, community, or ecology. In others the individual appears as a largely **autonomous agent**, responsible for creating purpose and direction.
+
+Different civilisations stabilise different combinations of these variables. The resulting philosophies appear diverse, but each represents a coherent response to the same underlying problem: how to organise life when pleasure is unstable.
+
+| Civilisation | Desire Strategy | Authority of Meaning | Identity Structure | Cultural Expression |
+|---|---|---|---|---|
+| Mediterranean | Intensify through excellence | Mixed (virtue within shared norms) | Moderately individual | Human flourishing through mastery and cultivation |
+| Indian | Reduce or detach from desire | Metaphysical/cosmic order | Inward but less individualised | Liberation through detachment and disciplined action |
+| Northern European | Intensify through individual will | Individual creation of meaning | Strongly individual | Affirm life through action and self-created values |
+| East Asian | Moderate desire through discipline | External social order | Embedded relational self | Harmony through roles, ritual, and hierarchy |
+| Jewish | Moderate desire through obligation | External moral law | Communal but portable identity | Meaning through responsibility, law, and repair |
+| Islamic | Redirect desire toward transcendence | Divine authority | Communal spiritual identity | Desire fulfilled through devotion to God |
+| Polynesian | Dissolve the individual subject of desire | Ecological and ancestral order | Fully embedded identity | Belonging within lineage, land, and sea |
