@@ -31,11 +31,7 @@ Seen from this angle, philosophy becomes less a collection of individual theorie
 
 This shift in perspective matters for our problem. The hedonic treadmill is not something any single thinker discovered. It is a pattern entire cultures noticed repeatedly.
 
-  
-
 And rather than converging on one solution, civilisations developed different ways of living with it.
-
-  
 
 The following sections examine several of these civilisational strategies.
 
