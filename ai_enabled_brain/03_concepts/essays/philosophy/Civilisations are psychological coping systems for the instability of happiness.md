@@ -206,7 +206,7 @@ Such systems function best in small, place-bound communities. They scale poorly 
 
 
 
-### 4. The Psychological Strategies Behind Civilisational Responses
+### The Psychological Strategies Behind Civilisational Responses
 
 If the hedonic treadmill arises from the interaction of desire, expectation, identity, and meaning, then civilisations tend to stabilise life by modifying one of these variables. Beneath their cultural differences, most traditions can be understood as variations of a small number of psychological strategies.
 
