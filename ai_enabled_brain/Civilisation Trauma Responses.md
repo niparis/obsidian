@@ -1230,7 +1230,7 @@ The deeper lesson is not that one tradition must replace the others. It is that 
 The hedonic treadmill remains. But the range of human responses to it is far richer than a single philosophy could ever capture.
 
 
-## **7. Conclusion: Dancing With the Wheel**
+## **6. Conclusion: Dancing With the Wheel**
 
   
 
