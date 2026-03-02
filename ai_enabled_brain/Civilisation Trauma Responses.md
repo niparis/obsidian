@@ -19,86 +19,25 @@ Note: style > **compressed essayistic clarity** / - **Peter Turchin** / - **Isai
 
 ## **2. From Philosophers to Civilisations: Why We Need a Bigger Map**
 
-Individual philosophers can offer powerful insights into the human condition. But they rarely stand alone. Behind every thinker lies a cultural world that shaped the questions they asked and the answers that felt plausible.
+Individual philosophers can offer powerful insights into the human condition, but they rarely stand alone. Behind every thinker lies a cultural world that shaped the questions they asked and the answers that seemed plausible.
 
+Aristotle’s vision of human flourishing reflects the social world of the Greek city-state. Confucius’s emphasis on harmony and ritual emerged from centuries of political disorder in ancient China. The Buddha’s diagnosis of suffering was formed in a civilisation deeply preoccupied with cycles of birth and rebirth.  
 
-Aristotle did not emerge in a vacuum. His vision of human flourishing—cultivating excellence within a community of citizens—reflects the social world of the Greek city-state. Confucius’s emphasis on harmony and ritual grew from centuries of political disorder in ancient China and the urgent need to restore stable social hierarchies. The Buddha’s diagnosis of suffering was formed in a civilisation deeply preoccupied with cycles of birth, death, and rebirth.
+Philosophers often appear as solitary figures, but in reality they are the most articulate voices of larger cultural conversations.
 
-  
+Civilisations, over long stretches of history, accumulate shared intuitions about suffering, success, duty, and meaning. These intuitions are reinforced through religion, social institutions, stories, and everyday practices. They form coherent ways of interpreting the human predicament.
 
-Philosophers often appear as solitary figures, but in reality they are the most articulate voices of much larger cultural conversations.
+Seen from this angle, philosophy becomes less a collection of individual theories and more a distillation of civilisational experience.
 
-  
-
-Civilisations, over long stretches of history, develop coherent ways of interpreting the human predicament. They accumulate shared intuitions about suffering, success, duty, and meaning. These intuitions are reinforced through religious traditions, political structures, stories, and everyday social practices.
-
-  
-
-Seen from this angle, philosophy becomes less like a set of isolated theories and more like a **distillation of civilisational experience**.
+This shift in perspective matters for our problem. The hedonic treadmill is not something any single thinker discovered. It is a pattern entire cultures noticed repeatedly.
 
   
 
-This shift in perspective matters for our problem. The hedonic treadmill—the discovery that pleasure fades and satisfaction rarely lasts—is not something any single thinker discovered. It is something entire cultures noticed again and again.
+And rather than converging on one solution, civilisations developed different ways of living with it.
 
   
 
-And rather than agreeing on one universal solution, civilisations built **different ways of living with that reality**.
-
-  
-
-The Mediterranean world, shaped by vibrant public life and political competition, developed an ideal of human flourishing rooted in excellence and balance. A good life meant cultivating virtue, participating in civic life, and enjoying the pleasures of friendship and beauty while they lasted.
-
-  
-
-In India, where philosophical traditions often focused on impermanence and the cycles of existence, the dominant response was different. Instead of stabilising pleasure, many Indian traditions sought to loosen the individual’s attachment to it entirely.
-
-  
-
-Northern Europe, forged in harsher climates and later shaken by the collapse of religious certainty, moved toward a different solution again: meaning as something created through strength, will, and individual responsibility.
-
-  
-
-Russia, shaped by immense suffering and spiritual intensity, developed a moral imagination in which suffering itself could become a path toward redemption and depth.
-
-  
-
-In East Asia, the answer lay less in individual psychology and more in the creation of harmonious social structures. A stable network of roles, rituals, and obligations provided continuity even when personal emotions fluctuated.
-
-  
-
-Jewish civilisation, forged in centuries of exile and survival, developed a different orientation still: meaning through responsibility, memory, and the continual effort to repair the world.
-
-  
-
-Islamic civilisation redirected the search for satisfaction upward, toward a transcendent order in which human desire finds its proper orientation through submission to the divine.
-
-  
-
-And in Polynesian cultures, shaped by life in close relationship with the ocean and the natural world, identity itself often softened into a broader sense of belonging within living ecosystems.
-
-  
-
-These responses differ dramatically in their details, yet they share a common origin. Each emerged from a culture that had, in its own way, confronted the same unsettling discovery: the pleasures of life are real, but they rarely remain satisfying for long.
-
-  
-
-The important point is not to rank these traditions or to claim that any single one offers the final answer. Each represents a **civilisational strategy**—a way of organising values, expectations, and social life so that human beings can live meaningfully despite the instability of happiness.
-
-  
-
-Looking at these traditions side by side reveals something that is difficult to see from within any one culture. What appears natural or obvious in one civilisation is often only one possible response among many.
-
-  
-
-The Mediterranean emphasis on balanced excellence, the Indian pursuit of detachment, the Northern European celebration of will, the Russian embrace of suffering, the Confucian focus on role and harmony—each represents a different way of standing within the same human condition.
-
-  
-
-If the hedonic treadmill is universal, then these civilisational responses form a kind of **map**. Not a set of instructions, but a landscape of possibilities that humanity has explored over centuries.
-
-  
-
-Understanding that map is the first step toward seeing the problem more clearly—and perhaps toward choosing more deliberately how we want to live within it.
+The following sections examine several of these civilisational strategies.
 
 ## **3. Civilisational Profiles**
 
