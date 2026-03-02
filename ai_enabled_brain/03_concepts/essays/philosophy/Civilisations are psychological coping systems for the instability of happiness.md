@@ -217,6 +217,20 @@ If the hedonic treadmill arises from the interaction of desire, expectation, ide
 | **Meaning Relocation**      | Where meaning resides                   | Anchor life in something more durable than pleasure | Greek excellence, Confucian duty, Islamic devotion   | Provides strong purpose and direction     | Can create rigid moral structures or elite frameworks |
 | **Identity Transformation** | The self that experiences desire        | Redefine or dissolve the individual self            | Polynesian lineage identity, some Eastern traditions | Reduces comparison and status competition | Difficult to sustain in large, mobile societies       |
 | Affirm the treadmill itself |                                         |                                                     | Jewish obligation,                                   |                                           |                                                       |
+
+### 5. What Each Civilisation Is Trying to Protect
+
+Looking across these traditions side by side reveals a deeper pattern. Civilisations are not simply offering different techniques for happiness. They are protecting against different dangers.
+
+Every culture begins with a particular fear about the human condition. From that fear emerges a strategy for organising life so that meaning remains possible even when pleasure fades.
+
+Some societies fear chaos. Others fear endless craving, spiritual emptiness, exile, or the collapse of moral order. Their philosophies are attempts to stabilise life against these threats.
+
+Seen this way, civilisational wisdom does not primarily disagree about what makes people happy. It disagrees about what must be prevented at all costs.
+
+The table below summarises these protective logics. Each tradition identifies a vulnerability in human life and builds its meaning system around guarding against it.
+
+No single civilisation solves the entire problem. Each protects one dimension of human existence while leaving others exposed.
 ## **4 . 5 What Each Civilisation Optimises For**
 
   
