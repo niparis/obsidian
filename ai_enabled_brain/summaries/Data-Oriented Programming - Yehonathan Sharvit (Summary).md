@@ -47,3 +47,8 @@ Debugging is presented through the lens of reproducibility. In modules that oper
 Across the book, DOP is not presented as free of trade-offs. Data transparency weakens encapsulation and removes automatic constraints on which code may access which data. Generic data structures reduce compile-time guarantees and can require explicit casting in some statically typed languages. Immutability can impose a small performance cost and may require third-party persistent data structure libraries with conversion overhead at integration boundaries. Schema separation provides flexibility but also relies on discipline to apply validation where it matters.
 
 The overall message is that much of the complexity in everyday application code is not inherent to the business domain. It emerges from how data and behavior are packaged and from how state is mutated. By separating code from data, representing data with generic structures, embracing immutability, and using explicit schemas where needed, systems tend to become easier to change, easier to test, and easier to reason about under concurrency.
+
+## Links
+
+- [[Data-Oriented Programming (MOC)]]
+- [[Functional Programming]]

@@ -38,3 +38,8 @@ updated: 2026-02-12
 ## Conventions
 - Naming: Standard Markdown
 - Imports: Wikilinks [[Link]]
+
+## Links
+
+- [[opencode-todo]]
+- [[obsidian-agent-grade-vault]]

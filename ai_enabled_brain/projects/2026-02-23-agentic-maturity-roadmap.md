@@ -203,3 +203,8 @@ If we don’t separate these levels, enterprises will over-invest where risk is 
 3. Build a one-page rubric: delegated decision rights vs required controls.
 4. Gather concrete patterns for delayed-outcome evaluation windows (T+1 day, T+7 days, T+30 days).
 5. Design Level 3 sub-levels (e.g., 3A bounded iteration, 3B self-modifying workflow, 3C multi-agent adaptive systems).
+
+## Links
+
+- [[content_calendar]]
+- [[stylistic-brief-framework]]

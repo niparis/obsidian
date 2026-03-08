@@ -86,3 +86,8 @@ created: 2026-02-26
 - Vibe coding / AI-assisted coding shifts the skill premium:
   - people-management skills become less central in some workflows,
   - influence/orchestration skills become more valuable.
+
+## Links
+
+- [[2026-02-23-agentic-maturity-roadmap]]
+- [[stylistic-brief-framework]]
