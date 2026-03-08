@@ -1,3 +1,9 @@
+---
+title: Slay the Spire Clones / Similar Games — Genre Analysis (2026)
+tags: [openclaw]
+created: 2026-02-21
+---
+
 # Slay the Spire Clones / Similar Games — Genre Analysis (2026)
 
 ## 1) Grounding terms

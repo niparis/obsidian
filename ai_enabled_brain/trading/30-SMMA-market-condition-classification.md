@@ -1,3 +1,9 @@
+---
+title: 30 SMMA Market-Condition Classification (Momentum vs Mean Reversion)
+tags: [openclaw]
+created: 2026-03-08
+---
+
 # 30 SMMA Market-Condition Classification (Momentum vs Mean Reversion)
 
 _Source: extracted from Koroush AK PDF shared on 2026-03-04._
