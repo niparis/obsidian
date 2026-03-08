@@ -32,20 +32,6 @@
             }
           },
           {
-            "id": "f63cd52b5f2511b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_concepts/essays/philosophy/Civilisations are psychological coping systems for the instability of happiness.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Civilisations are psychological coping systems for the instability of happiness"
-            }
-          },
-          {
             "id": "7254c72b83f9d114",
             "type": "leaf",
             "state": {
@@ -58,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,41 +229,41 @@
   },
   "active": "7254c72b83f9d114",
   "lastOpenFiles": [
-    "trading/30-SMMA-market-condition-classification.md",
+    "summaries/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
+    "summaries",
+    "research/innsmouth-cult-story.md",
+    "research/Slay the Spire Clones - Genre Analysis.md",
+    "research/FGO Team Comp Ideas.md",
+    "research",
+    "projects/resume_review_2026-02-24.md",
+    "projects/resume_prompt_runs_2026-02-24.md",
+    "projects/resume_job_search_prompts.md",
+    "projects/opencode-todo.md",
+    "projects/opencode-context.md",
+    "projects/job_target_watchlist_2026-02-25.md",
+    "projects/job_search_strategy_2026-02-24.md",
+    "projects/job_search_hub.md",
+    "projects/job_crawler_mandate_2026-02-25.md",
+    "projects/dream-escape-project.md",
+    "projects/content_calendar.md",
+    "projects/Nicolas_Paris_Resume_2026-02_rewritten.md",
+    "projects/Nicolas_Paris_Resume_2026-02_Head_of_AI.md",
+    "projects/Nicolas_Paris_Resume_2026-02_CTO.md",
+    "projects/FGO skills upgrade priorities.md",
+    "projects/FGO Achilles NP2 Team Orders.md",
+    "projects/2026-02-23-agentic-maturity-roadmap.md",
+    "projects",
+    "daily/2026-03-08.md",
+    "daily",
+    "concepts/ui-brief-template.md",
+    "concepts/stylistic-brief-framework.md",
+    "concepts/specs-driven-development-sdd.md",
+    "concepts/obsidian-agent-grade-vault.md",
+    "concepts",
     "trading",
-    "_scratchpad.md",
-    "README.md",
-    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md",
-    "03_concepts/essays/philosophy/Civilisations are psychological coping systems for the instability of happiness.md",
     "03_concepts/essays/philosophy",
     "03_concepts/essays",
     "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_enterprise-growth.pdf",
-    "01_projects/resume_job_search/job_target_watchlist_2026-02-25.md",
-    "01_projects/resume_job_search/job_search_strategy_2026-02-24.md",
-    "01_projects/resume_job_search/job_crawler_mandate_2026-02-25.md",
-    "01_projects/job_search_hub.md",
-    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_Head_of_AI.md",
-    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_CTO.md",
-    "games/Slay the Spire Clones - Genre Analysis.md",
-    "games",
-    "05_resources/gaming/FGO skills upgrade priorities.md",
-    "05_resources/gaming/FGO Team Comp Ideas.md",
-    "01_projects/resume_job_search_prompts.md",
-    "01_projects/resume_job_search/resume_review_2026-02-24.md",
-    "01_projects/resume_job_search/resume_prompt_runs_2026-02-24.md",
-    "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02.pdf",
-    "01_projects/resume_job_search",
-    "01_projects/linkedin_system/drafts/2026-02-23-agentic-maturity-roadmap.md",
-    "01_projects/linkedin_system/drafts",
-    "01_projects/linkedin_system/content_calendar.md",
-    "01_projects/linkedin_system",
-    "05_resources/gaming/FGO Achilles NP2 Team Orders.md",
-    "05_resources/gaming",
-    "03_concepts/technology/Scaler Mapping Regime Risk to Exposure.md",
-    "Link.md",
-    "05_resources/opencode-todo.md",
-    "05_resources/opencode-context.md",
-    "03_concepts/technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
-    "03_concepts/technology/Data-Oriented Programming (MOC).md"
+    "games"
   ]
 }
