@@ -44,9 +44,21 @@
               "icon": "lucide-file",
               "title": "Civilisations are psychological coping systems for the instability of happiness"
             }
+          },
+          {
+            "id": "7254c72b83f9d114",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -229,7 +241,7 @@
       "obsidian-opencode:OpenCode": false
     }
   },
-  "active": "f63cd52b5f2511b2",
+  "active": "7254c72b83f9d114",
   "lastOpenFiles": [
     "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md",
     "03_concepts/essays/philosophy/Civilisations are psychological coping systems for the instability of happiness.md",
