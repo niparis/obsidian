@@ -1,3 +1,9 @@
+---
+title: Draft — Agentic Maturity Roadmap (v1)
+tags: [openclaw]
+created: 2026-02-23
+---
+
 # Draft — Agentic Maturity Roadmap (v1)
 
 Date: 2026-02-23
