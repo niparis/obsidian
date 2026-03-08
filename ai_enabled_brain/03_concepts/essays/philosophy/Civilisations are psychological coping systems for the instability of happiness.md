@@ -1,3 +1,9 @@
+---
+title: Civilisations are psychological coping systems for the instability of happiness
+tags: [openclaw]
+created: 2026-03-08
+---
+
 Note: style : compressed essayistic clarity / Peter Turchin /  Isaiah Berlin  / Toynbee
 ## **1.  The Instability of Satisfaction**
 > 
