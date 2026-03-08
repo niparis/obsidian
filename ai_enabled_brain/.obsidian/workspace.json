@@ -243,6 +243,10 @@
   },
   "active": "7254c72b83f9d114",
   "lastOpenFiles": [
+    "trading/30-SMMA-market-condition-classification.md",
+    "trading",
+    "_scratchpad.md",
+    "README.md",
     "01_projects/resume_job_search/Nicolas_Paris_Resume_2026-02_rewritten.md",
     "03_concepts/essays/philosophy/Civilisations are psychological coping systems for the instability of happiness.md",
     "03_concepts/essays/philosophy",
@@ -273,11 +277,7 @@
     "Link.md",
     "05_resources/opencode-todo.md",
     "05_resources/opencode-context.md",
-    "05_resources/library/Python Cookbook, Third Edition - David Beazley, Brian K. Jones.pdf",
     "03_concepts/technology/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
-    "03_concepts/technology/Data-Oriented Programming (MOC).md",
-    "03_concepts/ui-brief-template.md",
-    "03_concepts/stylistic-brief-framework.md",
-    "03_concepts/obsidian-agent-grade-vault.md"
+    "03_concepts/technology/Data-Oriented Programming (MOC).md"
   ]
 }
