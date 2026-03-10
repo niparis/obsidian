@@ -1,10 +1,10 @@
 ---
-title: UNTITLED CIV GAME — Design Brief v4
+title: Slay the Fermi — Design Brief v4
 tags: [openclaw, game-design, strategy, roguelite, deckbuilder, sci-fi, fermi-paradox]
 created: 2026-03-10
 ---
 
-# UNTITLED CIV GAME — Design Brief v4
+# Slay the Fermi — Design Brief v4
 
 ## High-Level Reference
 
