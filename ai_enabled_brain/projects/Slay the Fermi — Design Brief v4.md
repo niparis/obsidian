@@ -6,6 +6,42 @@ created: 2026-03-10
 
 # Slay the Fermi — Design Brief v4
 
+## Original Idea (Nicolas)
+
+- Current feedback: fun foundation, but missing player agency.
+- Strongest tension comes from population growth + resource management.
+- Ethics and peace mechanics currently feel less impactful.
+
+### Idea directions
+
+1. Add Wildermyth-style narrative events where civ characters can be composited directly into event images.
+2. Add timeline icons to mark major historical events for each civilization.
+3. Add a playable God Deck layer:
+   - Deckbuilder constraints:
+     - Mix of positive and catastrophe cards.
+     - Cards have inclusion cost, forcing tradeoffs between bonuses and disasters.
+   - Unlock progression for cards/archetypes.
+   - Rule: play exactly one card per civ per turn when possible.
+   - Each civ generates mana per turn:
+     - Science mana
+     - Industry mana
+     - Strife mana
+     - Art mana
+   - Mana accumulates over time and is only spent via card play.
+   - Some cards can convert/swap mana types.
+   - Some cards consume all available mana and scale effect by mana composition.
+   - Reaching certain ages should add new card/mana dynamics.
+4. Keep the global accumulating resource (Synthesis in current framing) as a way to mitigate card effects.
+5. Give each civilization one unique gimmick.
+
+### Game goal
+
+Prepare the cluster against invasion.
+
+### Optional thematic axis
+
+Explore Dark Forest concepts more explicitly.
+
 ## High-Level Reference
 
 A choice-driven sci-fi strategy / god-game / deck-builder hybrid about guiding a small cluster of alien civilizations under rising existential pressure.
