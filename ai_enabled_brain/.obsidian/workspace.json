@@ -40,9 +40,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "ea7ccfe218e2f6b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,7 +237,7 @@
       "obsidian-opencode:OpenCode": false
     }
   },
-  "active": "7254c72b83f9d114",
+  "active": "ea7ccfe218e2f6b2",
   "lastOpenFiles": [
     "daily/2026-03-09.md",
     "summaries/Data-Oriented Programming - Yehonathan Sharvit (Summary).md",
