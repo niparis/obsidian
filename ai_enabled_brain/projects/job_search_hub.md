@@ -25,6 +25,9 @@ doc_type: moc
 - Preferred tagline: CTO-level AI platform builder specialising in execution-grade transformation in complex environments.
 - SCB framing: The structural ownership model between central AI, platform, and domain created execution drag. I’m looking for an environment where mandate and delivery are aligned.
 
+## Latest crawler check
+- 2026-08-01: weekly crawler refresh found 668 fetched / 193 new jobs / 6 A-tier / 25 B-tier / 162 C-tier / 3 errors. Pending LLM fit scoring queue: 31 A/B jobs. Blockers: Salesforce RSS 404 persists; AXA API 503; Schneider Electric API 502. Next: freshly score `job_crawler/data/llm_fit_pending_jobs.json` and apply the results.
+
 ## Quick Filters (Obsidian search)
 - `tag:#job-search tag:#resume`
 - `tag:#job-search tag:#strategy`
